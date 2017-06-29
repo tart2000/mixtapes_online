@@ -1,0 +1,35 @@
+title: Track
+pages: false
+files: false
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type:  text
+  baseline: 
+  	label: baseline
+  	type: text
+  	width: 1/2
+  logo: 
+  	label: Logo URL
+  	type: url
+  	width: 1/2
+  text:
+    label: Text
+    type:  textarea
+  trackimg: 
+  	label: Image
+  	type: url 
+  	width: 1/2 
+  imgcredit:
+  	label: Image credit
+  	type: text
+  	width: 1/2
+  location: 
+  	label: location
+  	type: text
+  	width: 1/2
+  trackurl: 
+  	label: Link
+  	type: url
+  	width: 1/2 

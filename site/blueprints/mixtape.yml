@@ -1,0 +1,27 @@
+title: Mixtape
+pages: 
+	template: track 
+	sort: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  baseline: 
+  	label: Baseline
+  	type: text
+  imgurl: 
+  	label: Image
+  	type: url 
+  	width: 1/2
+  imgcredit: 
+  	label: Image credit 
+  	type: text 
+  	width: 1/2
+  creator: 
+    label: Creator
+    type: text 
+    width: 1/2
+  text:
+    label: Text
+    type:  textarea
