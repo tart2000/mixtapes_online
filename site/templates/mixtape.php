@@ -6,8 +6,18 @@
     <span class="background dark" style="background-image:url('<?= $page->imgurl() ?>')"></span>
    <!--  <span class="background dark" style="background-image:url('https://source.unsplash.com/nxfuA21kNHY/1440x1440')"></span> -->
     <div class="wrap size-60">
-      <p class="text-context">par Arthur Schmitt</p>
-      <h2><?= $page->title() ?></h2>
+      <p class="text-context">par 
+        <?php $author = $page->author() ?>
+        <?php if ($site->user($author)->firstName() != '' && $site->user($author)->lastName() != '') : ?>
+          <?php echo $site->user($author)->firstName().' '.$site->user($author)->lastName() ?>
+        <?php else : ?>
+          <?= $author ?>
+        <?php endif ?>
+      </p>
+      
+      <h2>
+        <?= $page->title() ?> 
+      </h2>
       <p class="text-subtitle"><?= $page->baseline() ?></p>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       <!-- <a class="button ghost" href="https://en.wikipedia.org/wiki/Aqaba">Voir &raquo;</a> -->

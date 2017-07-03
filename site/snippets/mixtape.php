@@ -20,8 +20,24 @@
   </figure>
   <!-- end figure-->
   <div class="flex-content">
-    <p class="text-context">par Arthur Schmitt</p>
-    <p><?= $mix->text()->excerpt(120) ?></p>
+    <p class="text-context">par 
+        <?php $author = $mix->author() ?>
+        <?php if ($site->user($author)->firstName() != '' && $site->user($author)->lastName() != '') : ?>
+          <?php echo $site->user($author)->firstName().' '.$site->user($author)->lastName() ?>
+        <?php else : ?>
+          <?= $author ?>
+        <?php endif ?>
+      </p>
+    <!-- <p><?= $mix->text()->excerpt(120) ?></p> -->
+    <p>
+      <?php $tracks = $mix->children()->count() ?>
+      <?php foreach ($mix->children() as $track) : ?>
+        <?= $track->title() ?> 
+        <?php if ($track->num() < $tracks) : ?>
+         /
+       <?php endif ?>
+      <?php endforeach ?>
+    </p>
     <p class="aligncenter">
       <a class="button ghost" href="<?= $mix->url() ?>">
         Play 

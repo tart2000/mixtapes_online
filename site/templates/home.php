@@ -23,6 +23,18 @@
     <!-- .end .wrap -->
   </section>
 
+  <section>
+    <div class="wrap">
+      <img class="alignright size-50" src="<?= $site->url() ?>/assets/images/iphone.png" alt="iPhone">
+      <h2>1 thème</h2>
+      <h2>x 10 projets </h2>
+      <h2>+ 1 bonus track</h2>
+      <p>Chaque mixtape explore un thème en émergence en réunissant une sélection de projets innovants.</p>
+      <p><strong>Image size recommended</strong>: 800x600px / 600x450px.</p>
+    </div>
+    <!-- .end .wrap -->
+  </section>
+
   <section class="">
     <div class="wrap">
       <?php foreach (page('mixtapes')->children()->limit(4) as $mix) : ?>
@@ -40,7 +52,7 @@
   <section>
     <!--.wrap = container 1200px with fadein animation -->
     <div class="wrap">
-      <h2 class="aligncenter">General Questions</h2>
+      <h2 class="aligncenter">Questions</h2>
       <p class="aligncenter">WebSlides Documentation: <a href="../demos/components.html" title="WebSlides Components">Components</a> &middot; <a href="../demos/classes.html" title="WebSlides Classes">Classes</a>.</p>
       <div class="grid">
         <div class="column">

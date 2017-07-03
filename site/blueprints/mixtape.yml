@@ -18,9 +18,9 @@ fields:
   	label: Image credit 
   	type: text 
   	width: 1/2
-  creator: 
-    label: Creator
-    type: text 
+  author:
+    label: Author
+    type: user
     width: 1/2
   text:
     label: Text
