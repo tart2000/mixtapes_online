@@ -10,11 +10,7 @@ Logo: http://twobitcircus.com/wp-content/uploads/2016/08/logo_dark.png
 
 ----
 
-Text: 
-
-Eum ad errem adipisci voluptaria. Cum quod probo sanctus at, an est tantas labitur offendit. Solet aeterno in vis.
-
-At legere accusata platonem mei, ut eos cibo mollis. Et duo sumo exerci doming. Ea vim facer detraxit tincidunt, fierent placerat quo no. Vim id semper feugait copiosae, no vix unum eirmod, vel meis quodsi consequat id.
+Text: Two Bit Circus, est un groupe de bricoleurs fous, de roboticiens, d'artistes visuels et de conteurs. Ensemble, ils proposent des expériences à l'intersection des sciences, de la technologie et de la créativité. Découverts pendant les Maker Faires, et ayant levé plusieurs millions de dollars, ils ont maintenant plusieurs espaces permanents en projet.
 
 ----
 
