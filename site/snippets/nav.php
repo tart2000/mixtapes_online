@@ -57,7 +57,7 @@
 
 
 <div class="nav-sq">
-  <a href="#" onclick="openNav()" type="button">
+  <a onclick="openNav()" type="button">
     <svg class="fa-t-list">
       <use xlink:href="#fa-th-list"></use>
     </svg>

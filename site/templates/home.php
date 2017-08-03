@@ -3,7 +3,7 @@
 <article>
 	<section class="bg-black aligncenter">
   <!-- Overlay/Opacity: [class*="bg-"] > .background.dark or .light -->
-    <span class="background" style="background-image:url('https://source.unsplash.com/mGYxAWITqMg/')"></span>
+    <span class="background" style="background-image:url('<?= $site->url() ?>/assets/images/paint.jpg')"></span>
     <div class="wrap">
       <p class="text-subtitle"></p>
       <h1 class="text-landing text-shadow"><?= $site->title() ?></h1>
@@ -25,7 +25,7 @@
 
   <section>
     <div class="wrap">
-      <img class="alignright size-50" src="<?= $site->url() ?>/assets/images/iphone.png" alt="iPhone">
+      <img class="alignright size-50" src="<?= $site->url() ?>/assets/images/mixtape_illus.png" alt="iPhone">
       <h2>1 thème</h2>
       <h2>x 10 projets </h2>
       <h2>+ 1 bonus track</h2>
