@@ -3,7 +3,7 @@
 <article id="webslides">  <!-- Slideshow -->
 
   <section class="bg-gradient-v">
-    <span class="background dark" style="background-image:url('<?= $page->imgurl() ?>')"></span>
+    <span class="background dark" style="background-image:url('https://source.unsplash.com/<?= $page->imgurl() ?>/2600x1600')"></span>
    <!--  <span class="background dark" style="background-image:url('https://source.unsplash.com/nxfuA21kNHY/1440x1440')"></span> -->
     <div class="wrap size-60">
       <p class="text-context">par 
@@ -28,7 +28,7 @@
         <svg class="fa-camera">
           <use xlink:href="#fa-camera"></use>
         </svg>
-        <?= $page->imgcredit() ?>
+        <?= $page->imgcredit() ?> (Unsplash)
       </div>
     <?php endif ?>
     <!-- .end .wrap -->
@@ -66,7 +66,7 @@
   
   <?php $count = $tracks->count() ?>  
   <?php foreach ($tracks as $track) : ?>
-    <?php if (--$count == 0) : ?>
+    <?php if (--$count == 0) : ?><!-- Bonus track slide added right before the last slide -->
       <section class="bg-gradient-r aligncenter">
         <div class="wrap">
           <h1 class="text-landing text-shadow"><strong>Bonus track &#128526</strong></h1>
@@ -76,6 +76,12 @@
     <?php endif ?>
     <?php snippet('track', array('track'=>$track, 'count'=>$count)) ?>
   <?php endforeach ?>
+
+  <!-- Page author -->
+  <?php if ($site->user($author)->firstName() != '' && $site->user($author)->lastName() != '') : ?>
+    <?php $theauthor = $site->user($author) ?>
+    <?php snippet('author', array('theauthor'=>$theauthor)) ?>
+  <?php endif ?>
 
   <section class="bg-gradient-v aligncenter">
     <!-- .wrap = container 1200px -->

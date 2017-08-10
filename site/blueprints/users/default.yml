@@ -1,0 +1,28 @@
+
+fields:
+  bio: 
+    label: Bio
+    type: textarea 
+    validate: 
+      minLength: 10
+      maxLength: 500
+  twitter: 
+    label: Twitter
+    type: text
+    placeholder: @username
+    icon: twitter
+    width: 1/2
+  linkedin: 
+    label: Linkedin
+    type: url 
+    icon: linkedin 
+    width: 1/2
+  weblink: 
+    label: Link 
+    type: url 
+    width: 1/2  
+  org: 
+    label: Organization 
+    type: text 
+    width: 1/2 
+  

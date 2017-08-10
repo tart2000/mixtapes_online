@@ -25,24 +25,20 @@
 
   <section>
     <div class="wrap">
-      <img class="alignright size-50" src="<?= $site->url() ?>/assets/images/mixtape_illus.png" alt="iPhone">
-      <h2>1 thème</h2>
-      <h2>x 10 projets </h2>
-      <h2>+ 1 bonus track</h2>
-      <p>Chaque mixtape explore un thème en émergence en réunissant une sélection de projets innovants.</p>
-      <p><strong>Image size recommended</strong>: 800x600px / 600x450px.</p>
+      <img class="alignright size-50" src="<?= $site->url() ?>/assets/images/mixtape_illus_2.png" alt="mixtapes">
+      <?= $page->text()->kirbytext() ?>
     </div>
     <!-- .end .wrap -->
   </section>
 
-  <section class="">
+  <section>
     <div class="wrap">
       <?php foreach (page('mixtapes')->children()->limit(4) as $mix) : ?>
         <?php snippet('mixtape', array('mix'=>$mix)) ?>
       <?php endforeach ?>
       <p class="aligncenter mt">
         <a class="button ghost" href="/mixtapes">
-          Voir toutes les mixtapes
+          <?= l::get('seeall') ?>
         </a>
       </p>
     </div>

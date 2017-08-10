@@ -25,6 +25,8 @@
 
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 
+    <link href="<?= $site->url() ?>/assets/images/favicon.ico" rel="icon" type="image/x-icon" />
+
     <!-- Our very own CSS file -->
     <?php echo css('assets/css/main.css') ?>
 

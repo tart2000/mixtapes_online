@@ -1,6 +1,8 @@
 title: Site
 pages: 
-  template: slideshow
+  template: 
+    - mixtape 
+    - page
 files: true
 fields:
   title:

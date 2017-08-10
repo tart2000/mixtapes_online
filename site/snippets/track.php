@@ -1,8 +1,15 @@
 <section class="fullscreen"> <!-- Project V3b -->
   <div class="card-50">
 
+  <?php $image = makeImage($track) ?>
+  <?php $thumb = $image->thumb([
+    'width'   => 900, 
+    'height'  => 900, 
+    'quality' => 100
+  ]) ?>
+
     <figure>
-      <img src="<?= $track->trackimg() ?>">
+      <img src="<?php echo $thumb->url() ?>">
       <figcaption>
           <svg class="fa-camera">
             <use xlink:href="#fa-camera"></use>
@@ -27,6 +34,7 @@
       <?php if ($track->logo() != '') : ?>
         <div class="project-logo" style="background-image:url('<?= $track->logo() ?>')"></div>
       <?php endif ?>
+
       <h2 class="aligncenter"><?= $track->title() ?></h2>
       <p class="text-intro aligncenter">
         <svg class="fa-map-pin">

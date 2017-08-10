@@ -17,6 +17,10 @@ h2 {
 .show-small {
   display: block; 
 }
+.avatar {
+  border-radius: 50%; 
+  overflow: hidden;
+}
 .column>figure>figcaption {
   color: rgba(255,255,255,0.8);
   position: absolute;
@@ -108,6 +112,10 @@ span.numb {
   left: 10px;
   font-size: 0.8em; 
   color: rgba(255,255,255,0.7);
+}
+
+.column .fa {
+  margin-right: 10px;
 }
 
 figure figcaption {

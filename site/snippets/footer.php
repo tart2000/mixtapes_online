@@ -5,8 +5,13 @@
 <!-- Required -->
 <?php echo js('assets/js/webslides.js') ?>
 
-<script>
- 	window.ws = new WebSlides(); 
+<?php if ($page->template() == 'mixtape') : ?>
+	<script type="text/javascript">
+	 	window.ws = new WebSlides(); 
+	 </script>
+<?php endif ?>
+
+ <script type="text/javascript">
 
   	/* Open when someone clicks on the span element */
 	function openNav() {

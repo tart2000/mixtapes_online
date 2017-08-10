@@ -1,7 +1,7 @@
 <div class="card-50 bg-white">
   <figure class="bg-gradient-v">
     <a href="<?= $mix->url() ?>">
-      <span class="background dark" style="background-image:url('<?= $mix->imgurl() ?>')" alt=""></span>
+      <span class="background dark" style="background-image:url('https://source.unsplash.com/<?= $mix->imgurl() ?>/2600x1600')" alt=""></span>
     </a>
     <div class="wrap mt">
     <h2>
@@ -14,7 +14,7 @@
         <svg class="fa-camera">
           <use xlink:href="#fa-camera"></use>
         </svg>
-        <?= $mix->imgcredit() ?>
+        <?= $mix->imgcredit() ?> (Unsplash)
       </figcaption>
     <?php endif ?>
   </figure>
@@ -28,7 +28,6 @@
           <?= $author ?>
         <?php endif ?>
       </p>
-    <!-- <p><?= $mix->text()->excerpt(120) ?></p> -->
     <p>
       <?php $tracks = $mix->children()->count() ?>
       <?php foreach ($mix->children() as $track) : ?>
