@@ -31,9 +31,6 @@
           ✌
         <?php endif ?>
       </span>
-      <?php if ($track->logo() != '') : ?>
-        <div class="project-logo" style="background-image:url('<?= $track->logo() ?>')"></div>
-      <?php endif ?>
 
       <h2 class="aligncenter"><?= $track->title() ?></h2>
       <p class="text-intro aligncenter">
@@ -47,6 +44,11 @@
       </p>
       <p><?= $track->text()->kirbytext() ?></p>
       <p class="aligncenter"><a href="<?= $track->trackurl() ?>" target="_blank"><?= $track->trackurl() ?></a></p>
+      <?php if ($track->logo() != '') : ?>
+        <div class="project-logo" style="background-image:url('<?= $track->logo() ?>')">
+          <img class="img-hidden" src="<?= $track->logo() ?>">
+        </div>
+      <?php endif ?>
     </div>
     <!-- end .flex-content-->
   </div>

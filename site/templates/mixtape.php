@@ -39,7 +39,7 @@
 
   <section class="small-pad">
     <div class="wrap size-50">
-    <h3>Table of Contents</h3>
+    <h3><?= l::get('content') ?></h3>
       <div class="toc">
         <ul>
           <?php foreach ($tracks as $track) : ?>
