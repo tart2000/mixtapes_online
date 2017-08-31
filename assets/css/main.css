@@ -204,3 +204,14 @@ figcaption {
     font-size: 40px;
 }
 
+/* My print */
+@media print {
+  .nav-sq, .slide-nav {
+    display: none;
+  }
+  .size-60, .size-50 {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
+

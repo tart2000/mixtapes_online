@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- SEO -->
-    <title><?php echo $site->title() ?></title>
+    <title><?php echo $site->title() ?> 
+    <?php if ($page->template() == 'mixtape') : ?>
+      - <?= $page->title() ?>
+    <?php endif ?>    
+    </title>
     <meta name="description" content="<?php echo $site->description() ?>">
 
     <!-- Google Fonts -->
