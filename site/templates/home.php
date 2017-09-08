@@ -33,9 +33,11 @@
 
   <section>
     <div class="wrap">
-      <?php foreach (page('mixtapes')->children()->limit(4) as $mix) : ?>
-        <?php snippet('mixtape', array('mix'=>$mix)) ?>
-      <?php endforeach ?>
+      <ul class="flexblock gallery">
+        <?php foreach (page('mixtapes')->children()->visible()->limit(4) as $mix) : ?>
+          <?php snippet('mixtape-vertical', array('mix'=>$mix)) ?>
+        <?php endforeach ?>
+      </ul>
       <p class="aligncenter mt">
         <a class="button ghost" href="/mixtapes">
           <?= l::get('seeall') ?>

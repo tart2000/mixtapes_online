@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: 100 year starship
+
+----
+
+Baseline: Voyager dans l'espace d'ici 100 ans
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://www.nibib.nih.gov/sites/default/files/NASAspaceimage.jpg
+
+----
+
+Imgcredit: NASA
+
+----
+
+Text: L'objectif du projet est de créer les conditions pour rendre possible le voyage interstellaire (donc, hors de notre système solaire). Il s'appuie sur une bourse de la NASA et la DARPA à une entité privée.
+
+----
+
+Logo: http://cafescicolorado.org/images/100YEAR%20logo.jpg
+
+----
+
+Trackurl: http://100yss.org/

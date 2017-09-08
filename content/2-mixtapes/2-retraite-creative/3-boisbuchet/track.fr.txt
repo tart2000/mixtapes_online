@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: Boisbuchet
+
+----
+
+Baseline: Design Architecture Nature
+
+----
+
+Logo: 
+
+----
+
+Text: Le domaine de Boisbuchet accueille depuis près de 25 ans des étudiants et professionnels du design pour des workshops pratique de 1 à plusieurs semaines (certains étant donnés par de grands designers). Ils travaillent ensemble sur une variété de projets à travers l'expérimentation, le jeu et l'apprentissage.
+
+----
+
+Trackimg: http://blog.openstructures.net/assets/blocks/31701/original-01-mg-0244.jpg
+
+----
+
+Imgcredit: Open Structures
+
+----
+
+Location: Limousin, France
+
+----
+
+Trackurl: https://www.boisbuchet.org/

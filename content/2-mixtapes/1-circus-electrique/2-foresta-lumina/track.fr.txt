@@ -1,0 +1,29 @@
+Title: Foresta Lumina
+
+----
+
+Baseline: Parcours nocturne illuminé en forêt
+
+----
+
+Logo: https://upload.wikimedia.org/wikipedia/commons/c/c7/Moment_Factory_logo.png
+
+----
+
+Text: Moment Factory a créé plusieurs parcours nocturnes pour mettre en valeur des lieux touristiques.   Celui-ci s’étend sur 2 km en pleine nature. En marchant dans la forêt mystérieuse, les visiteurs font la rencontre de personnages inspirés de contes et de légendes de la région, qui les entraînent dans une aventure immersive.  
+
+----
+
+Trackimg: https://medias.momentfactory.com/2015/11/TIFF-FORESTA-LUMINA-10.jpg
+
+----
+
+Imgcredit: Moment Factory
+
+----
+
+Location: Coaticook, Canada
+
+----
+
+Trackurl: http://forestalumina.com/

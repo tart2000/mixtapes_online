@@ -3,7 +3,7 @@
     <a href="<?= $mix->url() ?>">
       <span class="background dark" style="background-image:url('https://source.unsplash.com/<?= $mix->imgurl() ?>/2600x1600')" alt=""></span>
     </a>
-    <div class="wrap mt">
+    <div class="wrap mt mb">
     <h2>
       <?= $mix->title() ?>
     </h2>

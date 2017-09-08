@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: Mutinerie Village
+
+----
+
+Baseline: Espace de coworking et makerspace perché
+
+----
+
+Logo: http://www.incwo.com/images/blog/mutinerie_2.jpg
+
+----
+
+Text: Mutinerie Village est l'extension campagnarde de Mutinerie, un des premiers espaces de coworking parisiens. Installé dans une maison de famille au coeur du Perche (à 1h30 de Paris), ce lieu d'un nouveau genre est avant tout dédié aux nouveaux travailleurs autonomes qui cherchent à s'échapper de la ville.
+
+----
+
+Trackimg: https://a0.muscache.com/im/pictures/47255559/910169b4_original.jpg?aki_policy=xx_large
+
+----
+
+Imgcredit: Mutinerie Village
+
+----
+
+Location: Perche, France
+
+----
+
+Trackurl: http://village.mutinerie.org/

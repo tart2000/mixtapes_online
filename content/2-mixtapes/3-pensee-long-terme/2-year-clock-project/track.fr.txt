@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: 10 000 year clock project
+
+----
+
+Baseline: une horloge pensée pour fonctionner 10000 ans
+
+----
+
+Location: San Francisco
+
+----
+
+Trackimg: https://cdn-images-1.medium.com/max/2000/1*Al7l2_QeZ4agWT8DbPP-dg.jpeg
+
+----
+
+Imgcredit: Rolph Horn
+
+----
+
+Text: La Clock of the Long Now est un projet d'horloge mécanique censée fonctionner 10 000 ans, initié par la Long Now Foundation. Elle cherche à bousculer notre notion du temps. Le premier prototype a été mis en route le 31 décembre 1999, juste à temps pour la transition vers l'an 2000. Le développement est financé par Jeff Bezos à hauteur de 42 millions de dollars.
+
+----
+
+Logo: http://www.bennington.edu/themes/bennington/img/exnav/longnow.jpg
+
+----
+
+Trackurl: http://longnow.org/clock/

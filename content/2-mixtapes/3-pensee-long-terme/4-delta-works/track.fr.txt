@@ -1,0 +1,36 @@
+Prevnext: 
+
+----
+
+Title: Delta works
+
+----
+
+Baseline: Projet titanesque pour sauver un pays des eaux
+
+----
+
+Location: Pays-bas
+
+----
+
+Trackimg: http://www.7wonders.org/images/europe/netherlands/delta-works/delta-works.jpg
+
+----
+
+Imgcredit: 7 wonders
+
+----
+
+Text: 
+
+Le Delta Works (en néerlandais Deltaplan et Deltawerken) est le plus grand système de défense contre les eaux au monde, situé sur le territoire et sur les côtes des Pays-Bas. 
+Il a été l'œuvre de plusieurs décennies, le plan initial a été terminé en 1986, mais une nouvelle tranche de travaux est venue s'ajouter au plan initial, elle s'est terminée en 1997. De plus, la rehausse de toutes les digues pour être conforme à la norme néerlandaise s'est poursuivie jusqu'en août 2010.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: https://fr.wikipedia.org/wiki/Plan_Delta

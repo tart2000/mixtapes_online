@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: Exploratorium
+
+----
+
+Baseline: Un musée des sciences hands-on
+
+----
+
+Logo: https://www.exploratorium.edu/sites/default/files/site/explo-logo-black.svg
+
+----
+
+Text: L'Exploratorium n'est pas seulement un musée. C'est une exploration continue de la science, de l'art et de la perception humaine - une vaste collection d'expériences pour nourrir sa curiosité.
+
+----
+
+Trackimg: http://68.media.tumblr.com/90b5c8fbd8d8df51b64239a167a0c122/tumblr_mtaiiczDK71rqjyt3o1_1280.jpg
+
+----
+
+Imgcredit: Exploratorium
+
+----
+
+Location: San Francisco, USA
+
+----
+
+Trackurl: https://www.exploratorium.edu/

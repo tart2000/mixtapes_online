@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: Betahaus Camps
+
+----
+
+Baseline: Explore the world with entrepreneurs from communities worldwide
+
+----
+
+Logo: http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/logo1.jpg
+
+----
+
+Text: Les camps organisés par Betahaus (un des espaces de coworking historiques de Berlin) réunissent une trentaine d'entrepreneurs pour une semaine de mix vacances / travail / connexion. Parmi les destinations possibles, on trouve la Grèce, Bali, le Portugal ou le Costa Rica.
+
+----
+
+Trackimg: http://www.dnxcamp.com/wp-content/uploads/bild5-1.jpg
+
+----
+
+Imgcredit: DNX Camp
+
+----
+
+Location: Partout dans le monde
+
+----
+
+Trackurl: http://camp.betahaus.com/

@@ -1,0 +1,29 @@
+Title: 2 bit circus
+
+----
+
+Baseline: Next-generation micro-amusement parks
+
+----
+
+Logo: http://twobitcircus.com/wp-content/uploads/2016/08/logo_dark.png
+
+----
+
+Text: Two Bit Circus, est un groupe de bricoleurs fous, de roboticiens, d'artistes visuels et de conteurs. Ensemble, ils proposent des expériences à l'intersection des sciences, de la technologie et de la créativité. Découverts pendant les Maker Faires, et ayant levé plusieurs millions de dollars, ils ont maintenant plusieurs espaces permanents en projet.
+
+----
+
+Trackimg: https://cdn.vox-cdn.com/uploads/chorus_asset/file/6454487/dunk-tank-flabme1.0.jpg
+
+----
+
+Imgcredit: Two Bit Circus
+
+----
+
+Location: Los Angeles, USA
+
+----
+
+Trackurl: http://twobitcircus.com/

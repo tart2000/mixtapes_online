@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: Les Machines de l'Île
+
+----
+
+Baseline: Bestiaire mécanique et fantastique
+
+----
+
+Logo: http://www.lesmachines-nantes.fr/img/logo.png
+
+----
+
+Text: Les Machines de l’île est un projet artistique totalement inédit. Né de l’imagination de François Delarozière et Pierre Orefice, il se situe à la croisée des « mondes inventés » de Jules Verne, de l’univers mécanique de Léonard de Vinci et de l’histoire industrielle de Nantes.
+
+----
+
+Trackimg: http://www.hotel-nantes.fr/usermedia/photo-634831159348225405-1.JPG?dummy=0&h=800
+
+----
+
+Imgcredit: 
+
+----
+
+Location: Nantes, France
+
+----
+
+Trackurl: http://www.lesmachines-nantes.fr/

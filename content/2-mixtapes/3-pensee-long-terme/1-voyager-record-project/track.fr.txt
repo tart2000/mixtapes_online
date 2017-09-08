@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: Voyager Golden Record
+
+----
+
+Baseline: Une bouteille à la mer interstellaire
+
+----
+
+Location: Space
+
+----
+
+Trackimg: https://www.nasa.gov/sites/default/files/images/154342main_image_feature_631_ys_full.jpg
+
+----
+
+Imgcredit: NASA
+
+----
+
+Text: Le Voyager Golden Record est un disque embarqué à bord des deux sondes spatiales Voyager, lancées en 1977. Ce disque de 12 pouces contient des sons et des images sélectionnés pour dresser un portrait de la diversité de la vie et de la culture sur Terre, et est destiné à d'éventuels êtres extraterrestres qui pourraient le trouver.
+
+----
+
+Logo: https://www.festisite.com/static/partylogo/img/logos/nasa.png
+
+----
+
+Trackurl: https://voyager.jpl.nasa.gov/golden-record/
