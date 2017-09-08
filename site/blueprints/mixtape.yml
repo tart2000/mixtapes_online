@@ -22,7 +22,7 @@ fields:
     label: Author
     type: user
     width: 1/2
-  thedate: 
+  date: 
     label: Date
     type: date 
     default: today

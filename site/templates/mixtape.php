@@ -2,6 +2,10 @@
 
 <article id="webslides">  <!-- Slideshow -->
 
+  <?php date_default_timezone_set('UTC'); ?>
+  <?php setlocale(LC_TIME, "fr_FR", ""); ?>
+
+  <!-- Mixtape cover -->
   <section class="bg-gradient-v">
     <span class="background dark" style="background-image:url('https://source.unsplash.com/<?= $page->imgurl() ?>/2600x1600')"></span>
    <!--  <span class="background dark" style="background-image:url('https://source.unsplash.com/nxfuA21kNHY/1440x1440')"></span> -->
@@ -21,6 +25,7 @@
       <p class="text-subtitle"><?= $page->baseline() ?></p>
       <p><?= $page->text()->kirbytext() ?></p>
       <!-- <a class="button ghost" href="https://en.wikipedia.org/wiki/Aqaba">Voir &raquo;</a> -->
+      <p><?= strftime("%d/%m/%Y", strtotime($page->date('l j F Y'))) ?></p>
     </div>
 
     <?php if ($page->imgcredit() !='') : ?>
@@ -37,7 +42,8 @@
   <?php $tracks = $page->children()->visible() ?>
   <?php $count = $tracks->count() ?>
 
-  <section class="small-pad">
+  <!-- Table of contents -->
+  <section class="small-pad"> 
     <div class="wrap size-50">
     <h3><?= l::get('content') ?></h3>
       <div class="toc">
