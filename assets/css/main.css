@@ -42,7 +42,10 @@ h2 {
 .flexblock.gallery li figcaption {
   padding: 20px;
 }
-/*  */ 
+.flexblock.gallery li .wrap {
+  height: 200px;
+}
+/* stuff */ 
 .hide-small {
   display: none;
 }
@@ -171,12 +174,6 @@ figcaption {
 }
 
 /* The Overlay sliding NAV */
-
-#logo-s {
-  position: fixed;
-  left: 50px;
-  top: 1px;
-}
 
 .overlay {
     /* Height & width depends on how you want to reveal the overlay (see JS below) */    

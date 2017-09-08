@@ -2,7 +2,7 @@
   <a href="<?= $mix->url() ?>">
     <figure class="bg-gradient-v">
       <span class="background dark" style="background-image:url('https://source.unsplash.com/<?= $mix->imgurl() ?>/2600x1600')" alt=""></span>
-      <div class="wrap bmt bmb text-white text-center">
+      <div class="wrap bmt text-white text-center">
         <h2>
           <?= $mix->title() ?>
         </h2>
@@ -28,7 +28,7 @@
           <?php endforeach ?>
         </p>
 
-        <p class="aligncenter smt smb"> <!-- button -->
+        <p class="aligncenter smt mb"> <!-- button -->
           <a class="button ghost" href="<?= $mix->url() ?>">
             Play 
             <svg class="fa-play">
