@@ -27,3 +27,15 @@ Location: Coaticook, Canada
 ----
 
 Trackurl: http://forestalumina.com/
+
+----
+
+Style: left
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

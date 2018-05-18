@@ -2,6 +2,10 @@
 h2 {
   font-family: 'Oswald', sans-serif;
 }
+em {
+  color: #abc;
+  font-size: 0.9em; 
+}
 .smt {
   margin-top: 20px;
 }
@@ -80,6 +84,17 @@ p {
 .text-intro {
   border-top: solid black 1px;
   font-size: 0.9em;
+}
+.bg-black .text-intro {
+  border-color: white;
+}
+.track-full figcaption {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+}
+.track-full .light {
+  opacity: 0.3;
 }
 span.numb {
   background-color: #000; 
@@ -238,7 +253,7 @@ figcaption {
   .nav-sq, .slide-nav {
     display: none;
   }
-  .size-60, .size-50 {
+  .size-60, .size-50, .size-30 {
     padding-left: 100px;
     padding-right: 100px;
   }

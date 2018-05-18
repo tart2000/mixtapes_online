@@ -25,7 +25,7 @@
       <p class="text-subtitle"><?= $page->baseline() ?></p>
       <p><?= $page->text()->kirbytext() ?></p>
       <!-- <a class="button ghost" href="https://en.wikipedia.org/wiki/Aqaba">Voir &raquo;</a> -->
-      <p><?= strftime("%d/%m/%Y", strtotime($page->date('l j F Y'))) ?></p>
+      <em><?= strftime("%d/%m/%Y", strtotime($page->date('l j F Y'))) ?></em>
     </div>
 
     <?php if ($page->imgcredit() !='') : ?>
@@ -42,33 +42,7 @@
   <?php $tracks = $page->children()->visible() ?>
   <?php $count = $tracks->count() ?>
 
-  <!-- Table of contents -->
-  <section class="small-pad"> 
-    <div class="wrap size-50">
-    <h3><?= l::get('content') ?></h3>
-      <div class="toc">
-        <ul>
-          <?php foreach ($tracks as $track) : ?>
-            <li>
-              <a href="#slide=<?php echo $track->num()+2 ?>" title="<?= $track->title() ?>">
-                <span class="chapter"><?= $track->title() ?></span>
-                <span class="toc-page">
-                  <?php $num = $track->num() ?>
-                  <?php if (--$count > 0) : ?>
-                    <?=  znum($num) ?> <!-- Add zero if <= 9 -->
-                  <?php else : ?>
-                    Bonus track
-                  <?php endif ?>
-                </span>
-              </a>
-            </li>
-          <?php endforeach ?>
-        </ul>
-      </div>
-      <!-- end .toc -->
-    </div>
-    <!-- .end .wrap -->
-  </section>
+  <!-- snippet toc (table of contents) était là -->
   
   <?php $count = $tracks->count() ?>  
   <?php foreach ($tracks as $track) : ?>
@@ -86,10 +60,10 @@
   <!-- Page author -->
   <?php if ($site->user($author)->firstName() != '' && $site->user($author)->lastName() != '') : ?>
     <?php $theauthor = $site->user($author) ?>
-    <?php snippet('author', array('theauthor'=>$theauthor)) ?>
+    <?php snippet('track-circle', array('theauthor'=>$theauthor)) ?>
   <?php endif ?>
 
-  <section class="bg-gradient-v aligncenter">
+  <section class="bg-gradient-v aligncenter" id="mail">
     <!-- .wrap = container 1200px -->
     <span class="background dark" style="background-image:url('https://source.unsplash.com/RkBTPqPEGDo/')"></span>
      <div class="wrap size-30">

@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Fauxtotoype
+
+----
+
+Style: full
+
+----
+
+Baseline: 
+
+----
+
+Location: 
+
+----
+
+Trackimg: 
+
+----
+
+Imgcredit: unsworn
+
+----
+
+Text: Un prototype qui sert principalement à récupérer du feedback client, et dont le fonctionnement est tout ou partie faké. Ça peut se passer de plusieurs manières différentes, soit en combinant des applications existantes, en cachant un humain derrière ou en simulant certaines interactions.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

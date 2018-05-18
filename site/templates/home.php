@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<article>
+<article id="webslides" class="vertical">
 	<section class="bg-black aligncenter">
   <!-- Overlay/Opacity: [class*="bg-"] > .background.dark or .light -->
     <span class="background" style="background-image:url('<?= $site->url() ?>/assets/images/paint.jpg')"></span>
@@ -8,12 +8,12 @@
       <p class="text-subtitle"></p>
       <h1 class="text-landing text-shadow"><?= $site->title() ?></h1>
       <p class="text-symbols">* * *</p>
-      <p class="">Bite-size inspiration for your next project</p>
+      <p class=""><?= $site->baseline() ?></p>
 
-      <?php $random = page('mixtapes')->children()->shuffle()->first() ?>
+      <?php $random = page('mixtapes')->children()->visible()->shuffle()->first() ?>
       <p class="aligncenter mt">
         <a class="button" href="<?= $random->url() ?>">
-          Random mixtape 
+          Mixtape au hasard
           <svg class="fa-random">
             <use xlink:href="#fa-random"></use>
           </svg>
@@ -25,7 +25,7 @@
 
   <section>
     <div class="wrap">
-      <img class="alignright size-50" src="<?= $site->url() ?>/assets/images/mixtape_illus_2.png" alt="mixtapes">
+      <img class="alignright size-50" src="<?= $site->url() ?>/assets/images/illustration_V2.png" alt="mixtapes">
       <?= $page->text()->kirbytext() ?>
     </div>
     <!-- .end .wrap -->
@@ -50,26 +50,19 @@
   <section>
     <!--.wrap = container 1200px with fadein animation -->
     <div class="wrap">
-      <h2 class="aligncenter">Questions</h2>
-      <p class="aligncenter">WebSlides Documentation: <a href="../demos/components.html" title="WebSlides Components">Components</a> &middot; <a href="../demos/classes.html" title="WebSlides Classes">Classes</a>.</p>
+      <h2 class="aligncenter">Contribuer</h2>
+      <p class="aligncenter">Mixtapes a besoin de vous pour devenir meilleur.</p>
       <div class="grid">
         <div class="column">
-          <h6>Why WebSlides? Good karma</h6>
-          <p>There're excellent presentation tools out there. WebSlides is about telling and sharing stories. Hypertext, clean code, and beauty as narrative elements.</p>
-          <h6>Is WebSlides a framework?</h6>
-          <p>We're all tired of heavy CSS frameworks. WebSlides is a starting point that provides basic <a href="../demos/components.html" title="WebSlides Components">structural components</a> and a scalable <a href="../demos/classes.html" title="WebSlides Classes">CSS architecture</a>.</p>
+          <?= $page->cont1()->kirbytext() ?>
         </div>
         <!-- end .column -->
         <div class="column">
-          <figure><img src="<?= $site->url() ?>/assets/images/setup.png" alt="WebSlides Files"></figure>
+          <figure><img src="<?= $site->url() ?>/assets/images/team_collaboration.png" alt="WebSlides Files"></figure>
         </div>
         <!-- end .column -->
         <div class="column">
-          <h6>What can you do with WebSlides?</h6>
-          <p>WebSlides is a cute solution for making HTML presentations, landings, and portfolios. <a href="../demos/components.html#slide=15">Put content wherever you want</a>, add <a href="../demos/components.html#slide=98">background images</a>, <a href="../demos/components.html#slide=101">videos</a>...
-          </p>
-          <h6>How easy is WebSlides?</h6>
-          <p>You can create your own presentation instantly. Just a basic knowledge of HTML and CSS is required. Simply choose a demo and customize it.</p>
+          <?= $page->cont2()->kirbytext() ?>
         </div>
         <!-- end .column -->
       </div>

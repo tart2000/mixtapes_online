@@ -31,3 +31,15 @@ Logo: https://meowwolf.com/wp-content/themes/meowwolf2015/img/meow-logo-shadow.p
 ----
 
 Trackurl: https://meowwolf.com/
+
+----
+
+Style: left
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

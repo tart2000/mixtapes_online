@@ -1,5 +1,5 @@
 <li class="bg-white">
-  <a href="<?= $mix->url() ?>">
+  <a href="<?= $mix->url() ?>" target="_blank">
     <figure class="bg-gradient-v">
       <span class="background dark" style="background-image:url('https://source.unsplash.com/<?= $mix->imgurl() ?>/2600x1600')" alt=""></span>
       <div class="wrap bmt text-white text-center">
@@ -29,7 +29,7 @@
         </p>
 
         <p class="aligncenter smt mb"> <!-- button -->
-          <a class="button ghost" href="<?= $mix->url() ?>">
+          <a class="button ghost" href="<?= $mix->url() ?>" target="_blank">
             Play 
             <svg class="fa-play">
               <use xlink:href="#fa-play"></use>

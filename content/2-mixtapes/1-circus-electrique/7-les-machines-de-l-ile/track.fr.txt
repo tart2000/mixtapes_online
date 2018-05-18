@@ -10,7 +10,7 @@ Baseline: Bestiaire mécanique et fantastique
 
 ----
 
-Logo: http://www.lesmachines-nantes.fr/img/logo.png
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpIqWkyYT-qtX8nzEz8mlfhCCztaUdt81i_yEToPEsnKu0rEbJ
 
 ----
 
@@ -31,3 +31,15 @@ Location: Nantes, France
 ----
 
 Trackurl: http://www.lesmachines-nantes.fr/
+
+----
+
+Style: left
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

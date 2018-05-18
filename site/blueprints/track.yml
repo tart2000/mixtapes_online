@@ -1,15 +1,23 @@
 title: Track
 pages: false
-files: false
+files: true
 fields:
   prevnext: prevnext
   title:
     label: Title
     type:  text
+  style: 
+    label: Style 
+    type: select 
+    default: left
+    options: 
+      left: Image à gauche
+      full: Full page image 
+      round: Round image 
   baseline: 
-  	label: baseline
-  	type: text
-  	width: 1/2
+    label: baseline
+    type: text
+    width: 1/2
   location: 
     label: location
     type: text
@@ -24,12 +32,20 @@ fields:
     width: 1/2
   text:
     label: Text
-    type:  textarea
+    type: textarea
   logo: 
     label: Logo URL
     type: url
     width: 1/2
   trackurl: 
-  	label: Link
-  	type: url
-  	width: 1/2 
+    label: Link
+    type: url
+    width: 1/2 
+  sourcelink: 
+    label: Source (lien)
+    type: url 
+    width: 1/2
+  sourcetitle: 
+    label: Source (titre)
+    type: text
+    width: 1/2 

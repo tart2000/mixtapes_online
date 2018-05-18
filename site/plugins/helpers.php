@@ -20,4 +20,13 @@ function makeImage($item) {
 	return $image;
 }
 
+function goToSlide($page) {
+	if ($page->num() != '') {
+		$url = $page->parent()->url().'/#slide='.$page->num();
+		go($url);
+	} else {
+		go($page->parent()->url());
+	}
+}
+
 ?>

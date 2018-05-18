@@ -8,3 +8,11 @@ fields:
   text:
     label: Text
     type:  textarea
+  cont1: 
+    label: Contribute gauche
+    type: textarea
+    width: 1/2
+  cont2: 
+    label: Contribute droite
+    type: textarea
+    width: 1/2 

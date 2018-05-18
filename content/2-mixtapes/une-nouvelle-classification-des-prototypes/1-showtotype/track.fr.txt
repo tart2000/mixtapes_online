@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Showtotype
+
+----
+
+Style: full
+
+----
+
+Baseline: 
+
+----
+
+Location: 
+
+----
+
+Trackimg: 
+
+----
+
+Imgcredit: AIM hero
+
+----
+
+Text: Un prototype dont l’objectif est de mettre en valeur le projet, pour communiquer ou fédérer des gens. Concrètement, des images ou vidéos, rendus visuels (2D ou 3D), simulations, souvent en mettant l’objet en situation avec un utilisateur.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 
