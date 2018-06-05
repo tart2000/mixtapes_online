@@ -10,7 +10,7 @@
       <p class="text-symbols">* * *</p>
       <p class=""><?= $site->baseline() ?></p>
 
-      <?php $random = page('mixtapes')->children()->visible()->shuffle()->first() ?>
+      <?php $random = page('albums')->children()->visible()->shuffle()->first() ?>
       <p class="aligncenter mt">
         <a class="button" href="<?= $random->url() ?>">
           Mixtape au hasard
@@ -34,12 +34,12 @@
   <section>
     <div class="wrap">
       <ul class="flexblock gallery">
-        <?php foreach (page('mixtapes')->children()->visible()->limit(4) as $mix) : ?>
+        <?php foreach (page('albums')->children()->visible()->limit(4) as $mix) : ?>
           <?php snippet('mixtape-vertical', array('mix'=>$mix)) ?>
         <?php endforeach ?>
       </ul>
       <p class="aligncenter mt">
-        <a class="button ghost" href="/mixtapes">
+        <a class="button ghost" href="/albums">
           <?= l::get('seeall') ?>
         </a>
       </p>
