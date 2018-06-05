@@ -30,6 +30,9 @@ em {
 .text-center {
   text-align: center;
 }
+.mixtape-cover {
+  font-size: 120%;
+}
 
 /* Correction table of content */
 .toc li:last-child .toc-page:before { 
@@ -95,6 +98,32 @@ p {
 }
 .track-full .light {
   opacity: 0.3;
+}
+.track-full .text-intro {
+  font-size: 140%;
+}
+.track-full em {
+  color: black;
+}
+.track-full h4 {
+  font-size: 1.4em;
+}
+.track-full .text-data {
+  font-size: 5em;
+  line-height: 10rem;
+}
+@media (max-width: 768px) {
+  .track-full .text-data {
+    font-size: 2em;
+    line-height: 5rem;
+  }
+  .track-full h4 {
+    font-size: 1.2em;
+    line-height: 2em;
+  }
+  .track-full .text-intro {
+    font-size: 120%;
+  }
 }
 span.numb {
   background-color: #000; 

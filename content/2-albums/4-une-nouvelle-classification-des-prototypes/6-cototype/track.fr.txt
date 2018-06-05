@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Cototype
+
+----
+
+Style: full
+
+----
+
+Baseline: Objectif : créer une vision commune au sein d'une équipe
+
+----
+
+Location: 
+
+----
+
+Trackimg: 
+
+----
+
+Imgcredit: 
+
+----
+
+Text: Un prototype fait par une équipe lors d’un sprint créatif. Il permet à une équipe de développer un langage commun et de tangibiliser leur idée (les mots ne suffisent pas), de se mettre d’accord. Que ça soit à travers du Lego Serious Play ou du bricolage en carton. Pas idéal pour communiquer avec d'autres ensuite car il représente d’abord la vision de l’équipe.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

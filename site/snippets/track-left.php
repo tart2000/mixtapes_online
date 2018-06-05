@@ -2,7 +2,9 @@
   <div class="card-50">
 
     <figure>
-      <img src="<?php echo $thumb->url() ?>">
+      <?php if ($thumb != '') : ?>
+        <img src="<?php echo $thumb->url() ?>">
+      <?php endif ?>
       <figcaption>
           <svg class="fa-camera">
             <use xlink:href="#fa-camera"></use>

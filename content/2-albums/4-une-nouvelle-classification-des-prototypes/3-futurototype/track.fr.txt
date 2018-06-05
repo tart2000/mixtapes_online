@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Futurototype
+
+----
+
+Style: full
+
+----
+
+Baseline: Objectif : imaginer et se projeter
+
+----
+
+Location: 
+
+----
+
+Trackimg: 
+
+----
+
+Imgcredit: Superflux
+
+----
+
+Text: Un prototype fictionnel qui sert de base à des scénarios futuristes. S’appuie sur des technologies qui n’existent pas encore. Il peut-être volontairement extrême pour montrer des biais technologiques, à la manière du *Design Fiction*.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

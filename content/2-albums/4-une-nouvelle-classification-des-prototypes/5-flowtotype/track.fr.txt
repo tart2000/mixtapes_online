@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Flowtotype
+
+----
+
+Style: full
+
+----
+
+Baseline: Objectif : suivre le parcours d'un utilisateur
+
+----
+
+Location: 
+
+----
+
+Trackimg: 
+
+----
+
+Imgcredit: Aaron Brako
+
+----
+
+Text: Un prototype qui met l’accent sur le parcours utilisateur. Ne nécessite pas forcément d’avoir un prototype fonctionnel. Peut se faire sous forme d'image ou de vidéo. Possibilité de combiner avec d'autres, par exemple : flowshowtype.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

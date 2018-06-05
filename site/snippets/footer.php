@@ -5,9 +5,11 @@
 <!-- Required -->
 <?php echo js('assets/js/webslides.js') ?>
 
-<?php if ($page->template() == 'mixtape') : ?>
+<?php if ($page->template() == 'album') : ?>
 	<script type="text/javascript">
-	 	window.ws = new WebSlides(); 
+	 	window.ws = new WebSlides({
+	 		loop: false
+	 	}); 
 	 </script>
 <?php endif ?>
 

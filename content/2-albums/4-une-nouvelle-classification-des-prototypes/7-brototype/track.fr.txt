@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Brototype
+
+----
+
+Style: full
+
+----
+
+Baseline: Objectif : faire rire un ami
+
+----
+
+Location: 
+
+----
+
+Trackimg: 
+
+----
+
+Imgcredit: Bart Jansen
+
+----
+
+Text: Un prototype qui ne sert qu’à un groupe très restreint de personnes et n’a pas vocation à devenir plus que ça. Souvent l’occasion de passer un bon moment en le construisant entre copains.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

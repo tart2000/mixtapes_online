@@ -1,0 +1,36 @@
+title: Single
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  baseline: 
+  	label: Baseline
+  	type: text
+  imgurl: 
+  	label: Image code (Unsplash)
+  	type: text 
+  	width: 1/2
+  imgcredit: 
+  	label: Image credit 
+  	type: text 
+  	width: 1/2
+  author:
+    label: Author
+    type: user
+    width: 1/2
+  date: 
+    label: Date
+    type: date 
+    default: today
+    width: 1/2
+  text:
+    label: Intro
+    type:  textarea
+    validate: 
+      minLength: 10
+      maxLength: 700
+  fulltext: 
+    label: Texte
+    type: textarea

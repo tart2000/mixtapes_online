@@ -3,7 +3,7 @@
     <span class="background light" style="background-image:url('<?php echo $thumb->url() ?>')"></span>
   <?php endif ?>
 
-  <div class="wrap">
+  <div class="wrap size-80">
   	<h2 class="text-data"><?= $track->title() ?></h2>
     <p class="text-intro aligncenter">
       <?php if ($track->location() != '') : ?>
@@ -12,16 +12,25 @@
         </svg>
         <?= $track->location() ?>
       <?php endif ?>
-    </p>
+      <?php if ($track->baseline() != '') : ?>
+       "<?= $track->baseline() ?>"
+      <?php endif ?>
+      </p>
     <h4><?= $track->text()->kirbytext() ?></h4>
   </div>
   <!-- .end .wrap -->
   
+
   <figcaption>
-    <svg class="fa-camera">
-      <use xlink:href="#fa-camera"></use>
-    </svg>
-    <?= $track->imgcredit() ?> 
+    <?php if ($track->imgcredit() != '') : ?>
+      <svg class="fa-camera">
+        <use xlink:href="#fa-camera"></use>
+      </svg>
+      <?= $track->imgcredit() ?> 
+    <?php endif ?>
+    <?php if ($track->sourcetitle() != '') : ?>
+      Source : <a href="<?= $track->sourcelink() ?>"><?= $track->sourcetitle() ?></a>
+    <?php endif ?>
   </figcaption>
 
 </section>

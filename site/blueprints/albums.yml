@@ -1,0 +1,12 @@
+title: Albums
+pages: 
+	template: album 
+	hide: true
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  mysubpagelist:
+    label: Albums
+    type:  subpagelist

@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Growtotype
+
+----
+
+Style: full
+
+----
+
+Baseline: Objectif : construire et faire évoluer
+
+----
+
+Location: 
+
+----
+
+Trackimg: 
+
+----
+
+Imgcredit: Forbes
+
+----
+
+Text: Le prototype version *Beta* d’un produit. Il se focalise d’abord sur la ou les fonctions prioritaires et est fait pour évoluer ensuite, à travers différentes versions. Il s'appuie donc sur la technologie cible.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 
