@@ -1,4 +1,4 @@
-Title: Weak Signals
+Title: Signaux faibles<br>Liens forts
 
 ----
 
@@ -22,4 +22,4 @@ Courriel:
 
 ----
 
-Baseline: Bite size inspiration for your next project
+Baseline: Veille par (link: http://thecamp.fr text: thecamp)

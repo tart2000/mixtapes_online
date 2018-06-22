@@ -29,9 +29,23 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
-c
+c::set('debug',true);
 
-::set('debug',true);
+c::set('routes', array(
+  array(
+	'pattern' => 'users/(:any)',
+	'action'  => function ($uid) {
+		$kirby = kirby();
+		$site = $kirby->site();
+		$page = $site->page();
+		$pages = $site->pages();
+		$user = $site->user($uid);
+		if ($user != '') {
+			return tpl::load(kirby()->roots()->templates() . DS . 'user.php', array('site' => $site, 'uid' => $uid, 'page' => $page, 'pages' => $pages), false);
+		} 
+    }
+  )
+));
 
 c::set('languages', array(
   array(

@@ -6,7 +6,7 @@
 
   <!-- Overlay content -->
   <div class="overlay-content">
-  	<?php foreach($pages->visible() as $p): ?>
+  	<?php foreach($site->pages()->visible() as $p): ?>
   		<a href="<?= $p->url() ?>">
         <?= $p->title() ?>
       </a>

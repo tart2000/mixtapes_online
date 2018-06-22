@@ -4,26 +4,17 @@ Title: Home
 
 Text: 
 
+##1 album = 
 ##1 thème
-##x 10 projets
+##x projets inspirants 
 ##+ 1 bonus track
 \---
-Chaque mixtape explore un thème en émergence en réunissant une sélection de projets innovants et est réalisée en partenariat avec un expert du sujet.
+Chaque album explore un thème en émergence en réunissant une sélection de projets innovants et signaux faibles.
 
 ----
 
 Cont1: 
 
-######Faire votre propre mixtape 
-
-Télécharger le template ici et remplissez le. 
-
-Pour toute question : arthur@mixtapes.com
-
 ----
 
 Cont2: 
-
-######Commander une mixtape sur un sujet 
-
-######Sponsoriser une mixtape

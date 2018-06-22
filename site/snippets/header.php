@@ -6,7 +6,7 @@
 
     <!-- SEO -->
     <title><?php echo $site->title() ?> 
-    <?php if ($page->template() == 'mixtape') : ?>
+    <?php if ($page->template() == 'album') : ?>
       - <?= $page->title() ?>
     <?php endif ?>    
     </title>
@@ -43,7 +43,7 @@
   </head>
   <body>
 
-  	<?php snippet('nav') ?>
+  	<?php snippet('nav', array('site'=>$site, 'page'=>$page)) ?>
 
   	<main role="main">
   		
