@@ -1,0 +1,41 @@
+Title: La cité de l'agri
+
+----
+
+Style: left
+
+----
+
+Baseline: Lieu moteur de la transition agroécologique
+
+----
+
+Location: Marseille, France
+
+----
+
+Trackimg: https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/sites/regions_france3/files/styles/top_big/public/assets/images/2018/04/11/17192204_1311583422221631_3654584798482616313_o-3602763.jpg?itok=Oxc8XwBk
+
+----
+
+Imgcredit: Projection d'architecte
+
+----
+
+Text: Afin de favoriser l’émergence, l’impact et la viabilité des solutions alternatives, la Cité de l’Agriculture crée, rassemble, forme, accompagne pour réinventer notre manière de produire et de nous alimenter. Elle sensibilise, convainc et permet à tous ceux qui participent à la transition de s’engager en étant soutenus.
+
+----
+
+Logo: https://i1.wp.com/www.cite-agri.fr/wp-content/uploads/2017/03/logo2.png?fit=490%2C488
+
+----
+
+Trackurl: http://www.cite-agri.fr/activites/
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Sourcelink: 

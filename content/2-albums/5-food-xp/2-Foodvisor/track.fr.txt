@@ -1,0 +1,41 @@
+Title: Foodvisor
+
+----
+
+Style: left
+
+----
+
+Baseline: Une application pour suivre son alimentation
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://www.demotivateur.fr/images-buzz/100202/VISUEL-03-LOGO-FR.jpg
+
+----
+
+Imgcredit: Foodvisor
+
+----
+
+Text: À partir d’une simple photo, l’application de nutrition Foodvisor est capable de reconnaître les aliments présents dans une assiette, d’estimer leur quantité et de fournir les informations nutritionnelles en quelques secondes.
+
+----
+
+Logo: https://www.foodvisor.io/static/img/base/logo-green-white.png
+
+----
+
+Trackurl: https://www.foodvisor.io
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Sourcelink: 

@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Century Camera project
+
+----
+
+Style: left
+
+----
+
+Baseline: Une photo à très longue exposition
+
+----
+
+Location: Berlin, Allemagne
+
+----
+
+Trackimg: https://cdn.fstoppers.com/styles/large-16-9/s3/wp-content/uploads/2014/05/Austin_Rogers_Fstoppers_Jonathon_Keats_Century_Camera_cover.jpg
+
+----
+
+Imgcredit: Jonathon Keats
+
+----
+
+Text: Le photographe Jonathon Keats a posé 100 caméras sténopés (les vieux appareils photos à trou) pour prendre des photos de Berlin avec une exposition de 100 ans.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

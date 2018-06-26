@@ -31,3 +31,15 @@ Logo:
 ----
 
 Trackurl: http://www.thetenthwatch.com/
+
+----
+
+Style: left
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

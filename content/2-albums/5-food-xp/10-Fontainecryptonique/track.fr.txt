@@ -1,0 +1,41 @@
+Title: Fontaine cryptonique
+
+----
+
+Style: left
+
+----
+
+Baseline: Fontaine publique comestible
+
+----
+
+Location: Reims, France
+
+----
+
+Trackimg: http://aquaponiereims.com/wp-content/uploads/2017/07/fontaine-cryptoponique-reims-aquaponie-1.jpg
+
+----
+
+Imgcredit: Ville de Reims
+
+----
+
+Text: Dans le cadre d'une aventure urbaine consistant à végétaliser les espaces urbains, la fontaine publique de Reims a été transformée en un oasis comestible grâce à l'aquaponie et la permaculture. Des cueillettes libres sont proposées aux habitants durant l'été.
+
+----
+
+Trackurl: 
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Logo: 
+
+----
+
+Sourcelink: 

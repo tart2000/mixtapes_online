@@ -1,0 +1,41 @@
+Title: Bompas & Parr
+
+----
+
+Style: left
+
+----
+
+Baseline: Duo d'artistes culinaires
+
+----
+
+Location: Londres, UK
+
+----
+
+Trackimg: http://assets.coolhunting.com/coolhunting/2016/08/18/large_Bompas-and-Parr-Stella-05.jpg
+
+----
+
+Imgcredit: Cool hunting
+
+----
+
+Text: Ce duo d'architectes crée des expériences culinaires 'pop-up' reconnus dans le monde entier. Leur premier projet utilisait de la gelée pour reproduire des batiments célèbres. Ils ont depuis développé plusieurs expérimentations autour de l'odorat (scratch and sniff) ou d'alcool (Alcoholic Architecture), jusqu'à des feux d'artifices multi-sensoriels.
+
+----
+
+Logo: http://bompasandparr.com/assets/img/logo.svg
+
+----
+
+Trackurl: http://bompasandparr.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Sourcelink: 

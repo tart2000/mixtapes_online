@@ -46,7 +46,7 @@
       <?php endif ?>
 
       <?php if ($track->text() != '') : ?>
-        <p><?= $track->text()->kirbytext() ?></p>
+        <?= $track->text()->kirbytext() ?>
       <?php endif ?>
 
       <?php if ($track->trackurl() != '') : ?>
@@ -61,6 +61,19 @@
         <div class="project-logo" style="background-image:url('<?= $track->logo() ?>')">
           <img class="img-hidden" src="<?= $track->logo() ?>">
         </div>
+      <?php endif ?>
+
+      <?php if ($track->sourcetitle() != '') : ?>
+        <span class="source">
+          Source : 
+            <?php if ($track->sourcelink() != '') : ?>
+              <a href="<?= $track->sourcelink() ?>">
+            <?php endif ?>
+            <?= $track->sourcetitle() ?>
+            <?php if ($track->sourcelink() != '') : ?>
+              </a>
+            <?php endif ?>
+        </span>
       <?php endif ?>
     </div>
     <!-- end .flex-content-->

@@ -2,7 +2,7 @@ Prevnext:
 
 ----
 
-Title: 10 000 year clock project
+Title: 10 000 year clock
 
 ----
 
@@ -31,3 +31,15 @@ Logo: http://www.bennington.edu/themes/bennington/img/exnav/longnow.jpg
 ----
 
 Trackurl: http://longnow.org/clock/
+
+----
+
+Style: left
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

@@ -1,0 +1,41 @@
+Title: Quince Restaurant
+
+----
+
+Style: left
+
+----
+
+Baseline: Un repas servi sur un iPad
+
+----
+
+Location: San Francisco, USA
+
+----
+
+Trackimg: https://cdn.vox-cdn.com/thumbor/X_3XvAimrPdjmVB2k5NgHHZFJKc=/0x0:1000x750/1200x800/filters:focal(420x295:580x455)/cdn.vox-cdn.com/uploads/chorus_image/image/52488253/quince_ipad.1482948291.jpeg
+
+----
+
+Imgcredit: Reddit
+
+----
+
+Text: Un restaurant étoilé Michelin utilise des tablettes d’Apple comme assiettes pour servir l'un de leur plat. Baptisé A Dog in Search of Gold, ce mets est décrit comme « des croquettes de truffe blanche sur des iPad montrant des vidéos d'un chien à la chasse aux truffes »...
+
+----
+
+Logo: https://pbs.twimg.com/profile_images/378800000336154829/0dab48f17c828fffdd30d1c734f1bdfe_400x400.jpeg
+
+----
+
+Trackurl: https://www.quincerestaurant.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Sourcelink: 

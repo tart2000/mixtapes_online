@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Tugboat institute
+
+----
+
+Style: left
+
+----
+
+Baseline: Une entreprise qui dure
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://www.incimages.com/uploaded_files/image/1940x900/the7ps_launch_65963.jpg
+
+----
+
+Imgcredit: 
+
+----
+
+Text: Le Tugboat Institute est un rassemblement d'entreprises qui souhaitent s'inscrire dans une pensée long-terme. Ils définissent des entreprises *Evergreens* (persistantes) comme dirigées par des dirigeants motivés par une mission, avec le courage et la débrouillardise nécessaires pour créer et développer des entreprises privées, rentables, durables et leaders sur leur marché. C'est le moyen, selon l'Institute, d'avoir un impact sur l'univers.
+
+----
+
+Logo: https://www.tugboatinstitute.com/themes/tugboat/images/logo.png
+
+----
+
+Trackurl: https://www.tugboatinstitute.com/
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

@@ -1,0 +1,36 @@
+Title: Dabbawala 
+
+----
+
+Style: left
+
+----
+
+Baseline: Système de livraison de repas 
+
+----
+
+Location: Mumbai, Inde
+
+----
+
+Trackimg: http://www.freepressjournal.in/wp-content/uploads/2016/09/dabbawala-mumbai.jpg
+
+----
+
+Imgcredit: Free Press Journal
+
+----
+
+Text: Système de livraison de repas de midi, vieux de 125 ans, qui permet aux femmes (restées à la maison) d'envoyer à leur mari (au travail) un repas fait maison. Des livreurs viennent chercher les repas à domicile, se retrouvent à des centres nevralgiques et s'échangent des plats. Ils les livrent au travail, puis reviennent chercher les dabbas vides pour les ramener à leur point de départ. Le système n'utilise aucune technologie et est effectué par des opérateurs souvent analphabètes, mais fonctionne incroyablement bien. Environ 200 000 repas sont livrés chaque jour par 5000 dabbawalas.
+
+----
+
+Trackurl: https://fr.wikipedia.org/wiki/Dabbawallah
+
+----
+
+Sourcetitle: thecamp
+
+----
+

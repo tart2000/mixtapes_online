@@ -6,7 +6,7 @@
     <span class="background dark" style="background-image:url('<?= $site->url() ?>/assets/images/paint.jpg')"></span>
     <div class="wrap">
       <p class="text-subtitle"></p>
-      <h1 class="text-landing text-shadow"><?= $site->title() ?></h1>
+      <h1 class="text-landing text-shadow"><?= $page->baseline() ?></h1>
       <p class="text-symbols">* * *</p>
       <p class=""><?= $site->baseline()->kirbytext() ?></p>
 

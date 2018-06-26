@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Sagrada Familia
+
+----
+
+Style: left
+
+----
+
+Baseline: 
+
+----
+
+Location: Barcelone, Espagne
+
+----
+
+Trackimg: https://upload.wikimedia.org/wikipedia/commons/e/ee/Sagrada_Familia_01.jpg
+
+----
+
+Imgcredit: Wikimedia
+
+----
+
+Text: La Sagrada Família est une basilique de Barcelone dont la construction a commencé en 1882. Elle prévoit de s'achever en 2026, 100 ans exactement après la mort de son créateur Antoni Gaudi. Le 10 juillet 1936, la majeure partie de l’atelier de Gaudí fut incendiée par des anticléricaux catalans. En raison de la destruction des ébauches, des maquettes, des modèles du temple et d’informations sur la manière de travailler tout à fait particulière de Gaudí, il ne resta aucun plan directeur indiquant comment terminer l’ouvrage.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

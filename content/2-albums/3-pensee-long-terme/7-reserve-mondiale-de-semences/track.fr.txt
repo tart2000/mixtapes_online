@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Réserve mondiale de semences
+
+----
+
+Style: left
+
+----
+
+Baseline: L'arche de Noé des graines
+
+----
+
+Location: Svalbard, Norvège
+
+----
+
+Trackimg: https://cdn.croptrust.org/wp/wp-content/uploads/2014/12/svalbard-global-22-1920x1200.jpg
+
+----
+
+Imgcredit: 
+
+----
+
+Text: La Réserve mondiale de semences du Svalbard, est une chambre forte souterraine sur l'île norvégienne du Spitzberg destinée à conserver dans un lieu sécurisé des graines de toutes les cultures vivrières de la planète et ainsi de préserver la diversité génétique. Le projet a été réalisé par l'architecte Peter W. Søderman.
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

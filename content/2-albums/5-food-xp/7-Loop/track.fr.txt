@@ -1,0 +1,40 @@
+Title: Loop
+
+----
+
+Style: left
+
+----
+
+Baseline: Jus pressés à partir de fruits récupérés
+
+----
+
+Location: Montréal, Canada
+
+----
+
+Trackimg: http://romeosgin.com/wp-content/uploads/2017/01/161218_RomeoGin_BrunchNoel_5028-1024x683.jpg
+
+----
+
+Imgcredit: Sylvain Granier
+
+----
+
+Text: Près de la moitié des fruits et légumes produits dans le monde sont jetés plutôt que d’être consommés, alors qu’une large part de ces produits sont encore très bons pour la consommation. LOOP redonne espoir aux fruits et légumes mis de côté par l’industrie alimentaire en les transformant en délicieux jus pressés à froid. 
+
+----
+
+Logo: http://jusloop.ca/wp-content/themes/loop/img/logo-orange.png
+
+----
+
+Trackurl: http://jusloop.ca/
+
+----
+
+Sourcetitle: thecamp
+
+----
+
