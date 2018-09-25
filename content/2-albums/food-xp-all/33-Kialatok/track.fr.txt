@@ -1,0 +1,36 @@
+Title: Kialatok
+
+----
+
+Style: left
+
+----
+
+Baseline: Ateliers d'insertion par la cuisine du monde
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: https://api-site-cdn.paris.fr/images/87930?w=Large
+
+----
+
+Text: Prendre l'art de la cuisine comme vecteur de formation à la diversité, c’est l’idée innovante de Kialatok. les cours de cuisine du monde Kialatok. Donnés par des cuisiniers issus de l’immigration, dont certains sont en insertion, ces cours destinés aux employés de grands groupes ont pour objectif de sensibiliser aux thématiques de la diversité en entreprise.
+
+----
+
+Logo: http://www.kialatok.fr/wp-content/uploads/2017/03/logo-kialatok-web.png
+
+----
+
+Trackurl: http://www.kialatok.fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

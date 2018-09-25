@@ -1,0 +1,40 @@
+Title: Nordic food lab
+
+----
+
+Style: left
+
+----
+
+Baseline: Association open-source qui étudie la diversité et le goût des aliments
+
+----
+
+Location: Danemark
+
+----
+
+Trackimg: https://officielitaly-grlk5lagedl.stackpathdns.com/production/italy/images/1486915130541232-insects-nordicfoodlab-christonnesen-055_2.jpg?w=802&h=720&fit=clip&fm=pjpg&auto=compress
+
+----
+
+Imgcredit: L'Officiel
+
+----
+
+Text: Créé en 2008, ce foodlab combine des approches scientifiques et humanistes avec des techniques culinaires du monde entier pour explorer le potentiel de la région nordique.
+
+----
+
+Logo: http://static1.squarespace.com/static/5006630dc4aa3dba7737ef40/t/500676e524ac4eefa45a4fdc/1529275453775/
+
+----
+
+Trackurl: http://nordicfoodlab.org/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

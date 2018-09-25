@@ -1,0 +1,40 @@
+Title: Viome
+
+----
+
+Style: left
+
+----
+
+Baseline: Éliminer la maladie grâce à des régimes personnalisés
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://www.viome.com/storage/app/media/viome-new/spices.png
+
+----
+
+Imgcredit: Viome
+
+----
+
+Text: La mission de Viome est d’aider les gens à mieux comprendre quel serait le meilleur régime pour leur santé. Bien qu’il existe d’innombrables régimes, les conseils pour une alimentation saine sont souvent contradictoires. Viome change la donne en analysant les bactéries et les produits chimiques contenus dans l’intestin. Les clients ont accès à une application mobile ainsi qu’à un kit de test annuel à domicile. De cette façon, l’entreprise est en mesure de proposer un régime adapté à chaque personne et susceptible de conduire à une meilleure santé. Les clients reçoivent leurs résultats de test et des conseils diététiques, via l’application mobile. La science derrière cette méthode est relativement nouvelle, mais l’entreprise fonde sa technologie sur un ensemble d’études universitaires.
+
+----
+
+Logo: https://www.viome.com/storage/app/media/viome-new/logo.png
+
+----
+
+Trackurl: https://www.viome.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

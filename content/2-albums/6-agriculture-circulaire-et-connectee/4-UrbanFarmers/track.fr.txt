@@ -1,0 +1,32 @@
+Title: UrbanFarmers
+
+----
+
+Style: left
+
+----
+
+Baseline: Grande ferme urbaine où aquaculture et hydroponie se rencontrent !
+
+----
+
+Location: Pays Bas
+
+----
+
+Trackimg: https://z6k4e9ngmp-flywheel.netdna-ssl.com/wp-content/uploads/urbanfarmers-aquaponics-europes-largest-urban-farm.jpg
+
+----
+
+Text: Equivalent européen du Lufa mais avec introduction de l'aquaponie comme méthode de culture : lieu de production avec vente directe au consommateur mais également restaurant/café et ateliers pédagogiques de découverte.
+
+----
+
+Trackurl: https://urbanfarmers.nl/?SID=74j8pl6anfhb60rknl34kdu673
+
+----
+
+Sourcetitle: thecamp
+
+----
+

@@ -1,0 +1,20 @@
+Title: Fico Eataly
+
+----
+
+Style: left
+
+----
+
+Baseline: Un parc d'attraction dédié à la culture de la nourriture italienne
+
+----
+
+Location: Bologne, Italie
+
+----
+
+Trackimg: https://www.tageskarte.io/fileadmin/content/user_upload/monaco-de_de_1.jpg
+
+----
+

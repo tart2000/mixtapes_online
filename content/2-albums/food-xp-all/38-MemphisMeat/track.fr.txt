@@ -1,0 +1,40 @@
+Title: Memphis Meat
+
+----
+
+Style: left
+
+----
+
+Baseline: Viande de synthèse
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://qz.com/wp-content/uploads/2015/10/cultured-beef-02-cropped-2.jpg?quality=80&strip=all&w=4000
+
+----
+
+Imgcredit: Quartz
+
+----
+
+Text: La société pionnière de la Silicon Valley aurait pour ambition de changer durablement les moyens de production de viande, en la fabriquant à partir de cellules animales, sans élever ni abattre de bétail ou de volaille.
+
+----
+
+Logo: http://static1.squarespace.com/static/5674c0c22399a3a13cbc3af2/t/5b02fc5670a6adb23e65f57f/1529952045422/?format=1500w
+
+----
+
+Trackurl: http://www.memphismeats.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

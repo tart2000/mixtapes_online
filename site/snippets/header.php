@@ -43,7 +43,7 @@
   </head>
   <body>
 
-  	<?php snippet('nav', array('site'=>$site, 'page'=>$page)) ?>
+  <!-- nav snippet wuz here (with array site and pages) -->
 
   	<main role="main">
   		

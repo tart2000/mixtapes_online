@@ -1,0 +1,36 @@
+Title: Fermes LUFA (MTL)
+
+----
+
+Style: left
+
+----
+
+Baseline: Modèle d’agriculture urbaine plus inclusif de toutes les formes d’agricultures locales
+
+----
+
+Location: Montréal, Canada
+
+----
+
+Trackimg: http://dinettemagazine.com/wp-content/uploads/2016/08/Lufa01-5-of-74-FILEminimizer.jpg
+
+----
+
+Text: Chaque jour, nous livrons directement à notre communauté d’adeptes - les Lufavores! - des milliers de paniers d’épicerie contenant des légumes cultivés dans nos fermes sur les toits. Nous relevons ce défi quotidien avec une vision : celle de créer un modèle innovant et durable d’agriculture urbaine, plus inclusif de toutes les formes d’agricultures locales. C’est ce qui nous pousse à cultiver de la nourriture sur des toits, à établir des partenariats avec des fermes et producteurs locaux, et à créer un réseau de points de cueillette où livrer toute cette nourriture le plus directement possible.
+
+----
+
+Logo: https://montreal.lufa.com/images/logo_fr.png
+
+----
+
+Trackurl: https://montreal.lufa.com/fr/fermes
+
+----
+
+Sourcetitle: thecamp
+
+----
+

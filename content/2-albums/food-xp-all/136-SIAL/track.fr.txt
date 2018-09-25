@@ -1,0 +1,24 @@
+Title: SIAL
+
+----
+
+Style: left
+
+----
+
+Baseline: Salon International de l'Alimentation
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: http://www.triangle-expo.com/images/Salons/sial/2016/Photo--SIAL16--CENTRECO--03.jpg
+
+----
+
+Trackurl: https://fr.sialparis.mobi/
+
+----
+

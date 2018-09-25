@@ -1,0 +1,41 @@
+Title: 90 jours
+
+----
+
+Style: left
+
+----
+
+Baseline: Coach pour changer le monde
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://90jours.org/images/demo.png
+
+----
+
+Imgcredit: 90 Jours
+
+----
+
+Text: 90jours est un assistant personnel de transition écolo qui vous accompagne au quotidien pour mettre en pratique votre prise de conscience écolo. À partir d’un court questionnaire, 90 jours identifie votre niveau d’implication et vos thématiques de prédilection pour vous proposer un 1er pas sur mesure : votre point d’entrée en transition. Ensuite, on vous aide à tenir votre défi, un peu à la manière d’un coach sportif. Quand votre premier défi est réussi, on vous propose le suivant, et ainsi de suite, pendant moins de 90 jours. 90jours n'a pas l'intention de faire de vous le parfait écologiste, ni de vous convaincre de l'urgence climatique. 90jours est un coup de pouce pour commencer à questionner son mode de vie, à douter de nos automatismes et réussir à trouver l'écologie qui nous ressemble.
+
+----
+
+Logo: http://90jours.org/images/logo.png
+
+----
+
+Trackurl: http://90jours.org
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Sourcelink: 

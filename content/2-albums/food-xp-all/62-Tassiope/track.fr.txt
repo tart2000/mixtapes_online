@@ -1,0 +1,40 @@
+Title: Tassiopée
+
+----
+
+Style: left
+
+----
+
+Baseline: La tasse à croquer
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: http://www.tassiopee.com/wp-content/uploads/2017/06/latte-art-min.png
+
+----
+
+Imgcredit: Tassiopée
+
+----
+
+Text: Tassiopée réinvente l’instant café grâce à une tasse 100% comestible. Cette solution est à la fois gourmande, ludique et 100% écoresponsable.
+
+----
+
+Logo: http://www.tassiopee.com/wp-content/uploads/2017/05/logo_tassiopee-min.png
+
+----
+
+Trackurl: http://www.tassiopee.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

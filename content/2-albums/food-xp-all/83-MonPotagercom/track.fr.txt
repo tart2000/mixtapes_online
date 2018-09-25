@@ -1,0 +1,40 @@
+Title: MonPotager.com
+
+----
+
+Style: left
+
+----
+
+Baseline: Je gère ma propre parcelle
+
+----
+
+Location: Bordeaux, France
+
+----
+
+Trackimg: https://img.20mn.fr/HTQXJL81S9eHqu3gdgoUJQ/830x532_produits-extra-frais-prepares-veille-lendemain
+
+----
+
+Imgcredit: 20 Minutes
+
+----
+
+Text: Créez votre potager en ligne ! Observez vos légumes pousser, Monpotager.com vous livre votre panier de fruits et légumes frais à domicile ou en point relais.
+
+----
+
+Logo: https://static.latribune.fr/full_width/930995/monpotager.jpg
+
+----
+
+Trackurl: https://www.monpotager.com
+
+----
+
+Sourcetitle: CA IFCAM
+
+----
+

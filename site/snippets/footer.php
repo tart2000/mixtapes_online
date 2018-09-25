@@ -25,6 +25,10 @@
 	    document.getElementById("myNav").style.width = "0%";
 	}
 
+	function closeTab() {
+		window.close();
+	}
+
 </script>
 
 <?php if ($page->template() == 'home' || $page->template() == 'albums' || $page->template() == 'user') : ?>
@@ -39,7 +43,9 @@
 		function sameWidth() {
 			var wid = $(".album").first().width();
 			$(".album").css({'width':wid+'px'});
+			$(".square").css({'height':wid+'px'});
 		};
+		sameWidth();
 		$( document ).ready(function() {
 			sameWidth(); 
 		});

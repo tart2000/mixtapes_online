@@ -1,0 +1,40 @@
+Title: Santropol Roulant (MTL)
+
+----
+
+Style: left
+
+----
+
+Baseline: Centre alimentaire communautaire
+
+----
+
+Location: Montréal, Canada
+
+----
+
+Trackimg: http://willtravelforfood.com/wp-content/uploads/2016/09/saisons-private-dinner-montreal.jpg
+
+----
+
+Imgcredit: Will Travel For Food
+
+----
+
+Text: Santropol Roulant est un centre alimentaire et une communauté intergénérationnelle. En faisant pousser de la nourriture, en la préparant, et en la livrant aux Montréalais, ils créent un continuum de services inspirants et engageants au bénéfice de la communauté, et renforcent le tissu social montréalais en faisant grandir la sécurité alimentaire en ville et l’inclusion sociale.
+
+----
+
+Logo: https://santropolroulant.org/wp-content/uploads/2014/11/160widthSR-Logo-Screen-PurpleGreen-HI-RGB1.jpg
+
+----
+
+Trackurl: https://santropolroulant.org/fr/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

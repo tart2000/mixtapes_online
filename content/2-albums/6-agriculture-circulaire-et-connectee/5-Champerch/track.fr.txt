@@ -1,0 +1,40 @@
+Title: Champerché
+
+----
+
+Style: left
+
+----
+
+Baseline: Ferme en bioponie
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: https://pbs.twimg.com/media/DOq1oQ2WkAEWyHq.jpg:large
+
+----
+
+Imgcredit: Fleurs du Bien
+
+----
+
+Text: Nous avons choisi de repenser les méthodes de culture de nos ancêtres en ayant la mainmise sur celle-ci. Notre ferme connectée nous permet de contrôler l’écosystème que nous y avons créé : température, humidité, luminosité… Nous avons opté pour un système bioponique qui permet une réduction de 90% d’eau ainsi que l’utilisation d’engrais bio pour favoriser la pousse de la plante. Nous voulons une alimentation saine pour tous, il n’y aura donc aucune utilisation de produits chimiques dans nos cultures. Toutes les conditions optimales sont réunies pour que nos produits soient locaux, frais et savoureux.
+
+----
+
+Logo: https://champerche.fr/wp-content/uploads/2018/04/BOLD_BLCK.png
+
+----
+
+Trackurl: https://champerche.fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

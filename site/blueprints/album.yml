@@ -33,3 +33,12 @@ fields:
     validate: 
       minLength: 10
       maxLength: 700
+  contributors: 
+    label: Contributors 
+    type: structure 
+    entry: >
+      {{name}}
+    fields: 
+      name:
+        label: Name
+        type: user

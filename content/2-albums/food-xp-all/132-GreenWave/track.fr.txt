@@ -1,0 +1,41 @@
+Title: Green Wave
+
+----
+
+Style: left
+
+----
+
+Baseline: Production alimentaire sous-marine
+
+----
+
+Trackimg: https://static1.squarespace.com/static/5972548c725e25df25109810/59cecb34bebafb9a8a7aaf79/59ced526cf81e0a1cd8454ce/1506727265052/seaweed%2B3%2BHR.jpg?format=1500w
+
+----
+
+Trackurl: https://www.greenwave.org/contactus/
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Location: 
+
+----
+
+Imgcredit: 
+
+----
+
+Text: 
+
+----
+
+Logo: 
+
+----
+
+Sourcelink: 

@@ -1,0 +1,24 @@
+Title: Food-x
+
+----
+
+Style: left
+
+----
+
+Baseline: Accélérateur dédié au food business
+
+----
+
+Location: NYC
+
+----
+
+Trackimg: https://1usaeh37xc8k42ejdw3evw3c-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Manuel-Gonzalez.jpg
+
+----
+
+Trackurl: https://food-x.com/
+
+----
+

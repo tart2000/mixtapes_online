@@ -1,0 +1,36 @@
+Title: Collectif Nouveaux Champs - Label Zéro Résidu
+
+----
+
+Style: left
+
+----
+
+Baseline: Un collectif d'entreprises volontaires
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.cuma.fr/sites/default/files/mecasol_0.jpg
+
+----
+
+Text: Le Programme Zéro Résidu de Pesticides garantit aux consommateurs l’absence de résidu des Substances Actives, non compatibles avec ce programme pour l’espèce considérée vendue sous la marque “Zéro Résidu de Pesticides”. L’absence de résidu est déterminée, pour chaque Substance Active analysée, par un résultat inférieur à la Limite de Quantification (LQ), plus petite valeur quantifiable par les laboratoires avec une précision “acceptable” Un Collectif qui pèse déjà plus de 10 % de la production française totale de Fruits & Légumes avec de nombreux leaders de la filière.
+
+----
+
+Logo: http://www.rougeline.com/app/webroot/files/uploads-rougeline/nodes/images/macaron_zrp_fbk_2.jpg
+
+----
+
+Trackurl: http://www.nouveaux-champs.fr/cahier-des-charges/
+
+----
+
+Sourcetitle: CA IFCAM
+
+----
+

@@ -1,0 +1,32 @@
+Title: WikiPearl
+
+----
+
+Style: left
+
+----
+
+Baseline: Aliments à emballage comestible
+
+----
+
+Trackimg: https://www.altitudeinc.com/wp-content/uploads/2014/06/Work-Altitude-WikiPearl-main-1920x944.jpg
+
+----
+
+Imgcredit: WikiFoods
+
+----
+
+Text: Les WikiPearl, ce sont des aliments dont on peut manger l'emballage : ils s’attrapent avec les doigts et se gobent. Les déclinaisons du WikiPearl sont nombreuses: glace, yaourt, fromage, soupe, compote… Et la peau qui l’entoure, formée en partie d’algues, peut être parfumée à tous les goûts. 
+
+----
+
+Logo: https://static1.squarespace.com/static/532b2b2be4b0b4a63cc3d876/532da317e4b078ca803ac517/533b1a1ae4b0c47740cd4e03/1396382236228/WIKI+FOODS+LOGO.jpg?format=750w
+
+----
+
+Sourcetitle: thecamp
+
+----
+

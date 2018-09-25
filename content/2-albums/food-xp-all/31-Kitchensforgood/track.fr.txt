@@ -1,0 +1,40 @@
+Title: Kitchens for good
+
+----
+
+Style: left
+
+----
+
+Baseline: Brise les cycles de la pauvreté alimentaire et de la faim.
+
+----
+
+Location: USA
+
+----
+
+Trackimg: http://workforce.org/sites/default/files/kfg_class_1_cooking.jpeg
+
+----
+
+Imgcredit: San Diego Workforce Partnership
+
+----
+
+Text: Entreprise sociale qui comble l'écart entre les aliments gaspillés et la faim en sauvant et en achetant des aliments excédentaires et cosmétiquement imparfaits des grossistes et des agriculteurs et engageant les étudiants dans un programme d'apprentissage culinaire pour transformer ces ingrédients en repas nutritifs pour les familles affamées. Cette approche répond aux besoins les plus immédiats de la faim en nourrissant les lignes alimentaires, mais contribue également à raccourcir la ligne elle-même en donnant aux chômeurs les compétences nécessaires pour devenir autosuffisantes.
+
+----
+
+Logo: https://foodtech-files.s3-eu-west-2.amazonaws.com/06f9fb45c9d7da7bec3a22718769dc21344293be73041a9ea373682439cf0aaa
+
+----
+
+Trackurl: http://www.kitchensforgood.org
+
+----
+
+Sourcetitle: thecamp
+
+----
+

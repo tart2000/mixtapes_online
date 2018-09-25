@@ -1,0 +1,40 @@
+Title: Agrilocal13
+
+----
+
+Style: left
+
+----
+
+Baseline: Plateforme mise en relation
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.cheragri.fr/bibliotheque_image/Actualites/Autres/Agrilocal%20au%20pre%20des%20fermes%20a.jpg
+
+----
+
+Imgcredit: Cher Agri
+
+----
+
+Text: Agrilocal13.fr est une plateforme de mise en relation simple, directe, et instantanée entre les producteurs locaux et les acheteurs de la restauration collective (collèges, maisons de retraite, hôpitaux, communes, etc…). Elle permet aux producteurs et aux artisans d'accéder, sans intermédiaire, à une source de débouchés supplémentaires en leur assurant un revenu et encourage une restauration de qualité, respectueuse des hommes, de leur santé et de l’environnement.
+
+----
+
+Logo: https://www.agrilocal13.fr/headerImage
+
+----
+
+Trackurl: https://www.agrilocal13.fr
+
+----
+
+Sourcetitle: Département 13
+
+----
+

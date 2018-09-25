@@ -1,10 +1,13 @@
 <section><!-- Author page -->
+
+  <a href="javascript:void(0)" class="close-sq" onclick="closeTab()">×</a>
+
   <div class="wrap size-80">
     <div class="grid sm">
       <div class="column">
-        <div class="avatar">
-          <?= $theauthor->avatar() ?>
-        </div>
+        <img class="avatar" src="<?= $theauthor->avatar()->crop(300,300)->url() ?>">
+          
+
       </div>
       <div class="column">
         <p class="text-subtitle">
@@ -34,7 +37,25 @@
             </a>
           <?php endif ?>
         </p>
-      </div>
+        <?php if ($contributors != '') : ?>
+          <?php $contributors = $contributors->toStructure() ?>
+          <?php $count = $contributors->count() ?>
+          <p>
+            Avec l'aide de 
+            <?php foreach ($contributors as $con) : ?>
+              <?php $user = $site->users()->find($con) ?>
+              <a href="<?= $site->url().'/users/'.$con ?>"><?= $user->firstName() ?> <?= $user->lastName() ?></a>
+              <?php $count-- ?>
+              <?php if ($count > 1) : ?>
+                <?php echo ', ' ?> 
+              <?php endif ?>
+              <?php if ($count == 1) : ?> 
+                <?php echo ' et '?>
+              <?php endif ?>
+            <?php endforeach ?>
+          </p>
+        <?php endif ?>
+      </div> <!-- end column -->
     </div>
   </div>
 </section>

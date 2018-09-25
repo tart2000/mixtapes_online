@@ -1,0 +1,40 @@
+Title: Le Paysan Urbain
+
+----
+
+Style: left
+
+----
+
+Baseline: Micro ferme urbaine à Romainville
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.afaup.org/wp-content/uploads/2017/08/Capture-d%E2%80%99%C3%A9cran-2017-08-19-%C3%A0-22.27.10.png
+
+----
+
+Imgcredit: AFAUP
+
+----
+
+Text: Le Paysan Urbain est une structure d'agriculture urbaine développant des fermes urbaines agro-écologiques, économiquement viables, socialement responsables et inscrites dans leur territoire tout en étant connectées aux agriculteurs ruraux et péri-urbains.
+
+----
+
+Logo: http://lepaysanurbain.fr/wp-content/uploads/2016/05/Pr%C3%A9sentation-sans-titre-4.jpg
+
+----
+
+Trackurl: http://lepaysanurbain.fr/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

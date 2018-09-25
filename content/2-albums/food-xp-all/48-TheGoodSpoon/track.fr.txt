@@ -1,0 +1,40 @@
+Title: The Good Spoon
+
+----
+
+Style: left
+
+----
+
+Baseline: Une mayonnaise sans oeuf
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://thegoodspoonfoods.com/wp-content/uploads/2017/05/home-no-s.png
+
+----
+
+Imgcredit: The Good Spoon
+
+----
+
+Text: The Good Spoon, c’est une création culinaire unique. En choisissant de remplacer l’œuf par une microalgue, nous obtenons une gamme des sauces végétales légères. Les mayo The Good Spoon ont jusqu’à 60% de matières grasses en moins que les sauces classiques.
+
+----
+
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAEoLlY8UekGtAKG2EZagjcTZcPYZprHLYMxnFFOYu_M01Ao7
+
+----
+
+Trackurl: http://thegoodspoonfoods.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

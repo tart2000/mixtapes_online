@@ -1,0 +1,40 @@
+Title: Algama
+
+----
+
+Style: left
+
+----
+
+Baseline: Mayonnaise et boisson à base de spiruline
+
+----
+
+Location: Paris,  France
+
+----
+
+Trackimg: https://www.maddyness.com/wp-content/uploads/2016/10/algama.jpg
+
+----
+
+Imgcredit: Madyness
+
+----
+
+Text: ALGAMA répond aux grands enjeux alimentaires de demain en proposant, dès aujourd’hui, une nouvelle alimentation saine, savoureuse et durable exploitant le potentiel unique des microalgues.
+
+----
+
+Logo: https://image4.owler.com/logo/algama_owler_20160531_160910_original.png
+
+----
+
+Trackurl: https://algamafoods.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

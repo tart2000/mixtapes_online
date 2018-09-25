@@ -1,0 +1,40 @@
+Title: Les Champignons de Marseille
+
+----
+
+Style: left
+
+----
+
+Baseline: Les Champignons de Marseille : les manger, c’est recycler !
+
+----
+
+Location: Marseille, France
+
+----
+
+Trackimg: https://img.20mn.fr/2BwGiB5mSfuwPW4QNV8sjw/960x614_maxime-quemin-champignons-marseille
+
+----
+
+Imgcredit: AFP
+
+----
+
+Text: Projet d’économie circulaire qui répond à l’émergence de la demande locavore et permet le développement de l’agriculture urbaine. Producteurs de champignons installés à Marseille, Maxime et Nicolas cultivent des pleurotes sur du marc de café collecté auprès des restaurateurs locaux. Ils vendent ensuite des pleurotes ultra-frais et cultivés sans produit chimique. Et le cycle du marc ne s’arrête pas là : après la cueillette, le substrat peut ensuite être utilisé pour enrichir les terres et produire des légumes bio.
+
+----
+
+Logo: https://www.delitdimages.org/wp-content/uploads/2017/09/21083587_1959937900896142_6013077964560226984_o-770x770.jpg
+
+----
+
+Trackurl: http://www.champignons-marseille.fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

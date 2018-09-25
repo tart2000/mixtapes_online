@@ -1,0 +1,36 @@
+Title: Creator
+
+----
+
+Style: left
+
+----
+
+Baseline: Le robot restaurateur
+
+----
+
+Location: San Francisco, USA
+
+----
+
+Trackimg: https://mm-app-web-main-prod.herokuapp.com/static/media/machine.f398a9b7.png
+
+----
+
+Imgcredit: Creator
+
+----
+
+Text: Creator est une chaine de production alimentaire entièrement automatisée. L'objectif est d'offrir une expérience dinatoire exclusive, tout en mettant plus d'attention sur la qualité des ingrédients. Le robot est déjà en utilisation dans un restaurant à burger à San Francisco.
+
+----
+
+Trackurl: http://creator.rest/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

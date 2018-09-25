@@ -1,0 +1,40 @@
+Title: La Marcotte 
+
+----
+
+Style: left
+
+----
+
+Baseline: Ferme urbaine et citoyenne
+
+----
+
+Location: Gardanne, France
+
+----
+
+Trackimg: https://www.colibris-lemouvement.org/sites/default/files/uploads/28/la-marcotte980.jpg
+
+----
+
+Imgcredit: Institut Inspire
+
+----
+
+Text: La Marcotte, c’est :  - un lieu accueillant pour la biodiversité en ville,  - une plateforme d’Economie Circulaire qui transforme des déchets en ressources, - un lieu ouvert au public créateur de lien social ; - un lieu de productions d’aliments sains, distribués en circuits courts.  - un moyen de revégétaliser la ville !
+
+----
+
+Logo: https://bluebees.fr/static/project/209/logo2.jpg
+
+----
+
+Trackurl: https://www.colibris-lemouvement.org/magazine/marcotte-une-ferme-bio-inspiree-a-gardanne
+
+----
+
+Sourcetitle: thecamp
+
+----
+

@@ -1,0 +1,40 @@
+Title: Disco Soup
+
+----
+
+Style: left
+
+----
+
+Baseline: Sensibilisation au gaspillage alimentaire
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://2.bp.blogspot.com/-f4cSSDwvsOI/USU8e0HX6dI/AAAAAAAAE7k/XelTxEYPn78/s1600/discosoup.png
+
+----
+
+Imgcredit: Disco Soupe
+
+----
+
+Text: Mouvement qui œuvre pour la sensibilisation du grand public à la problématique du gaspillage alimentaire et rassemble citoyens et militants autour de valeurs telles que l’initiative, la bidouille, le partage et la gratuité. L’enjeu : interroger le système et les pratiques liées à notre alimentation.  Les Disco Soupes sont des sessions collectives et ouvertes de cuisine de fruits et légumes rebuts ou invendus dans une ambiance musicale et festive. Les soupes, salades, jus de fruits ou smoothies ainsi confectionnés sont ensuite redistribués à tous gratuitement ou à prix libre. Les Disco Soupes permettent l’éducation à une cuisine saine et goûtue, la (re)découverte du plaisir de cuisiner ensemble, la création de zones de convivialité non-marchandes éphémères dans l’espace public, et, bien sûr, la sensibilisation du plus grand nombre au gaspillage alimentaire.  Dans une logique open source, chacun est libre d’organiser lui-même sa propre Disco Soupe à la condition que celle-ci respecte les Discommandements.
+
+----
+
+Logo: http://discosoupe.org/wp-content/uploads/2014/11/logo_discosoupe_dansant_rouge.png
+
+----
+
+Trackurl: http://discosoupe.org
+
+----
+
+Sourcetitle: thecamp
+
+----
+

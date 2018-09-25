@@ -1,0 +1,40 @@
+Title: Too Good To Go
+
+----
+
+Style: left
+
+----
+
+Baseline: Revente d'invendus des commerçants
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.startup-story.fr/images/av-pics/too-good-to-go.jpg
+
+----
+
+Imgcredit: Too Good To Go
+
+----
+
+Text: Too Good To Go, c'est une communauté qui lutte contre le gaspillage alimentaire. Le premier outil de cette communauté, c'est une application mobile qui permet de connecter les commerçants de quartier, qui peuvent avoir des invendus à leur fermeture, aux habitants qui vont pouvoir passer récupérer ces invendus. Une solution gagnant-gagnant puisque d'un côté, les commerçants ne jettent plus leurs invendus et les consommateurs peuvent acheter ces invendus à petits prix.
+
+----
+
+Logo: https://toogoodtogo.fr/assets/img/tgtg-logo.svg
+
+----
+
+Trackurl: https://toogoodtogo.fr
+
+----
+
+Sourcetitle: La Poste
+
+----
+

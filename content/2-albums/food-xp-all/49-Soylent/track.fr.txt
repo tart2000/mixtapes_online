@@ -1,0 +1,40 @@
+Title: Soylent
+
+----
+
+Style: left
+
+----
+
+Baseline: Nourriture de remplacement
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://prettythings.soylent.com/assets/home/20170627/0001a_social.jpg
+
+----
+
+Imgcredit: Soylent
+
+----
+
+Text: Soylent - dont le nom est tiré du film de science-fiction Soleil Vert - propose toute une série d'aliments de remplacement. L'objectif principal est de faire gagner du temps à ses utilisateurs. L'entreprise anime aussi une (link: https://www.completefoods.co/diy/recipes text: communauté DIY target: blank) assez active dans laquelle les gens proposent et testent différentes recettes, qui peuvent ensuite inspirer de réels produits.
+
+----
+
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Soylent.svg/800px-Soylent.svg.png
+
+----
+
+Trackurl: https://www.soylent.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

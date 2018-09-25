@@ -1,0 +1,36 @@
+Title: Ferme du Bec Hellouin
+
+----
+
+Style: left
+
+----
+
+Baseline: Lieu de référence sur la permaculture
+
+----
+
+Location: Bec-Hellouin, France
+
+----
+
+Trackimg: https://www.fermedubec.com/wp-content/uploads/2017/12/DSC_0044-Version-2.jpeg
+
+----
+
+Imgcredit: Ferme du Bel Hellouin
+
+----
+
+Text: Exploitation agricole située sur la commune du Bec-Hellouin dans l'Eure (France) appliquant une méthode permacole depuis 2007. A la Ferme du Bec Hellouin coexistent 3 activités : la Ferme, lieu de production agricole ; l’Ecole de Permaculture, centre de formations professionnelles et l’association Institut Sylva, unité de recherches en lien avec les activités de la Ferme. Une étude conduite par l'INRA et AgroParisTech entre décembre 2011 et mars 2015 cherche à démontrer la viabilité économique d'une microferme permaculturelle. L'étude a ainsi montré qu'une surface productive de 1 000 m2 en micro-maraîchage biologique intensif avec travail manuel avait dégagé 55 000 € de chiffre d'affaires en un an pour un équivalent temps-plein.
+
+----
+
+Trackurl: https://www.fermedubec.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

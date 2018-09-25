@@ -1,0 +1,40 @@
+Title: Foodentropie
+
+----
+
+Style: left
+
+----
+
+Baseline: Laboratoire de l'alimentation durable
+
+----
+
+Location: Nanterre, France
+
+----
+
+Trackimg: http://mccain.begooddogood.fr/wp-content/uploads/2017/11/foodentropie-coffee-shop-chateau-de-nanterre-etic-640x357.jpg
+
+----
+
+Imgcredit: Be Good. Do Good.
+
+----
+
+Text: Au cœur du château de Nanterre, le laboratoire de l'alimentation positive, à l'intérieur duquel co-existent un café, un restaurant, un potager, un espace de co-working, des événements dédiés au bien manger pour les petits et les grands, des cuisines partagées et un incubateur de start-ups du secteur.
+
+----
+
+Logo: http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/v1/377662/gmyexkpnlwfhe3guq7rl.png
+
+----
+
+Trackurl: http://www.foodentropie.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

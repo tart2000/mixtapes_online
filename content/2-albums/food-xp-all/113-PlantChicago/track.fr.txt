@@ -1,0 +1,32 @@
+Title: Plant Chicago 
+
+----
+
+Style: left
+
+----
+
+Baseline: Réseau de développement de l'égriculture urbaine
+
+----
+
+Location: Chicago, USA
+
+----
+
+Trackimg: https://z6k4e9ngmp-flywheel.netdna-ssl.com/wp-content/uploads/the-plant-chicago-sustainable-urban-farm.jpg
+
+----
+
+Logo: http://plantchicago.webfactional.com/app/uploads/2015/12/Plant-MainLogo-Green.png
+
+----
+
+Trackurl: http://plantchicago.org
+
+----
+
+Sourcetitle: thecamp
+
+----
+

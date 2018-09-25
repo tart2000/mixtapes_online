@@ -1,0 +1,40 @@
+Title: Ultraviolet
+
+----
+
+Style: left
+
+----
+
+Baseline: Restaurant à expérience multisensorielle
+
+----
+
+Location: Shangai, Chine
+
+----
+
+Trackimg: http://thegoodlife.thegoodhub.com/wp-content/thumbnails/uploads/sites/2/2016/12/tgl-p-hs-shangai-140-c-h-02-tt-width-690-height-442-crop-1-bgcolor-ffffff-except_gif-1-unveil-1.jpg
+
+----
+
+Imgcredit: Scott Wright & Limelight Studio
+
+----
+
+Text: Imaginé depuis une quinzaine d’années par le chef français Paul Pairet, le concept de l’établissement Ultraviolet est surprenant et avant-gardiste : une expérience multisensorielle unique. Au menu : une dégustation de 20 plats différents, créatifs et étonnants, le tout agrémenté d’une atmosphère spécifique à chaque plat. Lumières, son, musique, projections, images et sensations : chaque plat donne lieu à des ambiances différentes. Les convives sont tous assis autour de la même table rectangulaire et partagent leurs émotions, perceptions et goûts. Seulement 10 couverts sont proposés chaque soir, du mardi au samedi soir…
+
+----
+
+Logo: https://uvbypp.cc/wp-content/themes/uv2016/dist/img/wechatth.png
+
+----
+
+Trackurl: https://uvbypp.cc/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

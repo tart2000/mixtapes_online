@@ -1,0 +1,40 @@
+Title: Just Eat (Allo Resto)
+
+----
+
+Style: left
+
+----
+
+Baseline: Livraison de repas de restaurant
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://www.topappli.fr/wp-content/uploads/2018/01/Just-Eat.jpg
+
+----
+
+Imgcredit: Top Appli
+
+----
+
+Text: Faire de chaque repas un moment de plaisir et de découverte, c'est la mission de Just Eat (Allo Resto) !  Le marché de la restauration livrée est en plein boom. Sur ce créneau porteur, ils ont rejoint le groupe leader international, Just Eat, en 2012. Leur kif : proposer une expérience de livraison toujours meilleure et accessible au plus grand nombre afin de créer la plus grande communauté food au monde ! Appli la plus téléchargée du secteur de la food tech
+
+----
+
+Logo: https://upload.wikimedia.org/wikipedia/commons/0/07/Just_eat_%28allo_resto%29_logo.png
+
+----
+
+Trackurl: https://www.just-eat.fr
+
+----
+
+Sourcetitle: AccorHotels
+
+----
+

@@ -1,0 +1,40 @@
+Title: Refugee Food Festival
+
+----
+
+Style: left
+
+----
+
+Baseline: Festival culinaire solidaire
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.lm-magazine.com/wp-content/uploads/2017/05/fest_refugee-fod-festival_rf261885_dsc_0642hd.jpg
+
+----
+
+Imgcredit: UNHCR & Benjamin Loyseau
+
+----
+
+Text: Initiative citoyenne, le Refugee Food Festival est un projet itinérant développé par l’association Food Sweet Food avec le soutien de l’agence des Nations Unies pour les réfugiés, qui propose de confier les cuisines de restaurants à des chefs réfugiés, le temps d’un festival gourmand et solidaire.
+
+----
+
+Logo: http://www.refugeefoodfestival.com/wp-content/uploads/2018/05/unnamed.png
+
+----
+
+Trackurl: http://www.refugeefoodfestival.com
+
+----
+
+Source: thecamp
+
+----
+

@@ -1,0 +1,41 @@
+Title: Dans le noir
+
+----
+
+Style: left
+
+----
+
+Location: Paris etc.
+
+----
+
+Trackimg: http://www.parisnightlife.fr/wp-content/uploads/FID_erdf_retravaille%CC%81site.jpg
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Baseline: Restaurant dans le noir
+
+----
+
+Imgcredit: 
+
+----
+
+Text: 
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 

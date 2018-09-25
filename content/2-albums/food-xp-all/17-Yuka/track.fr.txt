@@ -1,0 +1,40 @@
+Title: Yuka
+
+----
+
+Style: left
+
+----
+
+Baseline: L'appli qui scanne notre alimentation
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://cdn.static01.nicematin.com/media/npo/mobile_1440w/2018/04/abj25840-5.jpg
+
+----
+
+Imgcredit: Nice Matin
+
+----
+
+Text: Savez-vous vraiment ce que vous mangez ? Evaluez la qualité de vos achats : Yuka scanne vos produits et analyse leur impact sur la santé. En un clin d’œil, il déchiffre pour vous les étiquettes : vous visualisez les produits qui sont bons et ceux qu’il vaut mieux éviter.
+
+----
+
+Logo: https://yuka.io/wp-content/uploads/2016/05/yuka-logo.svg
+
+----
+
+Trackurl: https://yuka.io
+
+----
+
+Sourcetitle: thecamp
+
+----
+

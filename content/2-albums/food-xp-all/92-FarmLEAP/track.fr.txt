@@ -1,0 +1,24 @@
+Title: FarmLEAP
+
+----
+
+Style: left
+
+----
+
+Baseline: L'intelligence collective au service des agriculteurs
+
+----
+
+Trackimg: http://www.farmleap.com/wp-content/uploads/2018/06/mais_compresse.jpg
+
+----
+
+Trackurl: http://www.farmleap.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

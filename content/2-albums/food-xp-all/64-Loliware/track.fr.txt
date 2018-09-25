@@ -1,0 +1,40 @@
+Title: Loliware
+
+----
+
+Style: left
+
+----
+
+Baseline: Le gobelet comestible
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/3/2/8/5/1075823-1-eng-GB/Shark-Tank-winner-Loliware-DSM-cooperate-to-make-edible-vitamin-cups_wrbm_large.jpg
+
+----
+
+Imgcredit: Loliware
+
+----
+
+Text: Plus besoin d’aller laver les verres, Loliware est un verre entièrement comestible. Il est également non-OGM, sans gluten, sans plastique. Le verre Loliware est fait d’édulcorants naturels, d’eau, d’agar-agar (gélifiant obtenu à partir d’algues rouges) et d’arômes et couleurs dérivés des fruits et légumes. 
+
+----
+
+Logo: https://cdn.shopify.com/s/files/1/1002/1928/t/19/assets/logo.png?2169712348950842995
+
+----
+
+Trackurl: https://www.loliware.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

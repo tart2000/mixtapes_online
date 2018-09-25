@@ -1,0 +1,40 @@
+Title: Kabaq 3D
+
+----
+
+Style: left
+
+----
+
+Baseline: Un menu en réalité augmentée
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://jasoren.com/wp-content/uploads/2018/01/4ec979ae8759665db0cf459367772b54-original-1.jpg
+
+----
+
+Imgcredit: Kabaq
+
+----
+
+Text: Application permettant aux convives de visualiser en 3D leurs plats au restaurant ou lorsqu'ils passent une commande en ligne
+
+----
+
+Logo: http://www.kabaq.io/social.png
+
+----
+
+Trackurl: http://www.kabaq.io
+
+----
+
+Sourcetitle: thecamp
+
+----
+

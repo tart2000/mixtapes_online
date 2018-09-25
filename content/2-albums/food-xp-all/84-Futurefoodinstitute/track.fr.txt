@@ -1,0 +1,20 @@
+Title: Future food institute
+
+----
+
+Style: left
+
+----
+
+Baseline: Centre de recherche autour de la nourriture
+
+----
+
+Location: Italie
+
+----
+
+Trackimg: http://futurefood.network/wp-content/uploads/2017/06/summer-camp.jpg
+
+----
+

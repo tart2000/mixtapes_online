@@ -1,0 +1,40 @@
+Title: Fooducate
+
+----
+
+Style: left
+
+----
+
+Baseline: Tout savoir sur les aliments qu'on mange
+
+----
+
+Location: Israël
+
+----
+
+Trackimg: http://siliconwadi.fr/files/2012/02/foot.jpg
+
+----
+
+Imgcredit: Silicon Wadi
+
+----
+
+Text: Fooducate est une application gratuite créée par une équipe de diététiciens et de parents, analysant les produits alimentaires, et vous donnant toutes les informations nutritionnelles utiles le concernant : excès de sucre et de sodium, présence d’acides gras trans, additifs et conservateurs, colorants alimentaires controversés, calories, sirops riches en fructose… Chaque aliment est ainsi noté, de « A » à « D », en fonction de son contenu nutritionnel.
+
+----
+
+Logo: http://www.fooducate.com/resources/images/app-icons/favicon-96x96.png
+
+----
+
+Trackurl: http://www.fooducate.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

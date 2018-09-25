@@ -1,0 +1,41 @@
+Title: Agriloops
+
+----
+
+Style: left
+
+----
+
+Baseline: Production de crevettes par aquaponie
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://static1.squarespace.com/static/5832c9cce58c625a7384aefe/t/5b014de10e2e7216afba4c2e/1526812173804/crevette+inverse%CC%81e+sans+texte.png
+
+----
+
+Logo: https://static1.squarespace.com/static/5832c9cce58c625a7384aefe/t/58f08e8c197aea0b0dc81837/1527850016753/?format=1500w
+
+----
+
+Trackurl: https://www.agriloops.com/
+
+----
+
+Imgcredit: 
+
+----
+
+Text: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

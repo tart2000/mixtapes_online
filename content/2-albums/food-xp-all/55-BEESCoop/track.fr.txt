@@ -1,0 +1,40 @@
+Title: BEES Coop
+
+----
+
+Style: left
+
+----
+
+Baseline: Supermarché à but non lucratif, coopératif et participatif
+
+----
+
+Location: Belgique
+
+----
+
+Trackimg: http://bees-coop.be/wp-content/uploads/2015/08/20170904_145649_0043.jpg
+
+----
+
+Imgcredit: BEES Coop
+
+----
+
+Text: L’idée de BEES coop est simple : créer une coopérative de consommateurs d’envergure visant à offrir un accès à bas prix à une nourriture de qualité, dans une démarche respectueuse de l’environnement et de l’humain. Le but est d’offrir une alternative à la grande distribution en se basant sur la mobilisation et la participation active des membres au fonctionnement du magasin.
+
+----
+
+Logo: http://bees-coop.be/wp-content/uploads/2015/08/logo.png
+
+----
+
+Trackurl: http://bees-coop.be
+
+----
+
+Sourcetitle: thecamp
+
+----
+

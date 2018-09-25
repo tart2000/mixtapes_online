@@ -1,0 +1,40 @@
+Title: seek-food
+
+----
+
+Style: left
+
+----
+
+Baseline: Produits à base de crickets
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://cdn.shopify.com/s/files/1/2609/5748/products/combo-all_1024x.jpg?v=1526739266
+
+----
+
+Imgcredit: Seek Food
+
+----
+
+Text: Seek Food développe des collations à base de crickets (granola, barre céréales, etc). 
+
+----
+
+Logo: https://pbs.twimg.com/profile_images/996117262301061129/Z-Jfxw5A_400x400.jpg
+
+----
+
+Trackurl: https://seek-food.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

@@ -22,4 +22,4 @@ Courriel:
 
 ----
 
-Baseline: Veille par (link: http://thecamp.fr text: thecamp)
+Baseline: Albums de veille par (link: http://thecamp.fr text: thecamp target: blank)

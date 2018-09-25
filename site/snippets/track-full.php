@@ -1,4 +1,6 @@
 <section class="bg-white aligncenter track-full">
+  <a href="javascript:void(0)" class="close-sq" onclick="closeTab()">×</a>
+  
   <?php if ($thumb != '') : ?>
     <span class="background light" style="background-image:url('<?php echo $thumb->url() ?>')"></span>
   <?php endif ?>

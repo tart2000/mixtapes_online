@@ -14,12 +14,12 @@
         </figcaption>
       <?php endif ?>
       <div class="slide-nav">
-        <?= $track->parent()->title() ?>
+        <span><?= $track->parent()->title() ?></span>
       </div>
     </figure>
     <!-- end figure-->
 
-    <div class="flex-content">
+    <div class="flex-content right-panel">
       <span class="numb">
         <?php if ($count != 0) : ?>   
           <?= $track->num() ?>
@@ -27,6 +27,8 @@
           ✌
         <?php endif ?>
       </span>
+
+      <a href="javascript:void(0)" class="close-sq" onclick="closeTab()">×</a>
 
       <h2 class="aligncenter"><?= $track->title() ?></h2>
       

@@ -1,0 +1,40 @@
+Title: La Louve
+
+----
+
+Style: left
+
+----
+
+Baseline: Supermarché collaboratif
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: https://www.anousparis.fr/app/uploads/2017/02/18_0.jpg
+
+----
+
+Imgcredit: A nous Paris
+
+----
+
+Text: La Louve est une coopérative alimentaire participative. Elle s’efforce de proposer à ses membres une alimentation de qualité à prix réduit, en donnant la priorité aux producteurs locaux, aux circuits courts et aux produits de saison.  "Nous n’étions pas satisfaits de l’offre alimentaire qui nous était proposée, alors nous avons décidé de créer notre propre supermarché."
+
+----
+
+Logo: http://4.bp.blogspot.com/-rKMW-SIysK8/UnDkXH7iZYI/AAAAAAAAA40/OJe7ag8YSl4/s200/LaLouve_logo2.png
+
+----
+
+Trackurl: https://cooplalouve.fr
+
+----
+
+Sourcetitle: La Poste
+
+----
+

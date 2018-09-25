@@ -1,0 +1,16 @@
+Title: Ripple foods
+
+----
+
+Style: left
+
+----
+
+Baseline: Produits laitiers sans lait
+
+----
+
+Trackimg: https://www.vmg-creative.com/img/desktop/hires/ripple-foods-2.jpg
+
+----
+

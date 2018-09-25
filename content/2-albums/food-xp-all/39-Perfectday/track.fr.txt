@@ -1,0 +1,40 @@
+Title: Perfect day
+
+----
+
+Style: left
+
+----
+
+Baseline: Lait synthétique vegan
+
+----
+
+Location: USA
+
+----
+
+Trackimg: http://www.ladn.eu/wp-content/uploads/2017/05/perfect-day-milk.jpg
+
+----
+
+Imgcredit: ADN
+
+----
+
+Text: Du lait de vache... sans vache : une jeune entreprise américaine fabrique un lait synthétique à partir de levures, qui aurait strictement le même goût que le lait de vache traditionnel.
+
+----
+
+Logo: http://perfectdayfoods.com/wp-content/uploads/2016/08/Perfect-Day-Logo-Black.png
+
+----
+
+Trackurl: http://www.perfectdayfoods.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

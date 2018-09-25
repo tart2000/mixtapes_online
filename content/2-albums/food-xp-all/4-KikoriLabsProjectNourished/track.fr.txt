@@ -1,0 +1,36 @@
+Title: Kikori Labs - Project Nourished
+
+----
+
+Style: left
+
+----
+
+Baseline: Le plaisir de la gastronomie sans les calories
+
+----
+
+Location: USA
+
+----
+
+Trackimg: http://www.projectnourished.com/wp-content/uploads/2016/01/008.jpg
+
+----
+
+Imgcredit: Project Nourished
+
+----
+
+Text: Faire vivre à l’utilisateur une expérience de repas simulé grâce à l’utilisation de la réalité virtuelle. Pour rendre la simulation réaliste, un kit composé de plusieurs éléments qui ne négligent aucun de nos sens a été mis au point, n’apportant quasiment aucune calorie ni nutriment à son utilisateur mais permettrait d’ôter la frustration engendrée par certaines allergies et intolérances alimentaires, et pourrait faciliter la prise en charge de troubles nutritionnels sans engendrer de privation.
+
+----
+
+Trackurl: http://www.projectnourished.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

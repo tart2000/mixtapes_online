@@ -1,0 +1,41 @@
+Title: Habit
+
+----
+
+Style: left
+
+----
+
+Trackimg: https://cdn-images-1.medium.com/max/1600/1*ID6LOV_TahQtTFHMrrVoAg.jpeg
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Baseline: Alimentation ultra personnalisée
+
+----
+
+Location: 
+
+----
+
+Imgcredit: 
+
+----
+
+Text: À base de tests ADN
+
+----
+
+Logo: https://habit.com/images/logo_habit.svg
+
+----
+
+Trackurl: https://habit.com/
+
+----
+
+Sourcelink: 

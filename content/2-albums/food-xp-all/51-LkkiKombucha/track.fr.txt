@@ -1,0 +1,40 @@
+Title: Lökki Kombucha
+
+----
+
+Style: left
+
+----
+
+Baseline: Boisson pétillante à base de thé fermenté
+
+----
+
+Location: Cavaillon, France
+
+----
+
+Trackimg: https://i.pinimg.com/originals/59/6d/4f/596d4fbb34c51ac86a396b2c25e55083.jpg
+
+----
+
+Imgcredit: Lökki Kombucha
+
+----
+
+Text: Fatigués des sodas artificiels trop sucrés et plein d’additifs, les fondateurs de Lökki s’imaginent enfin pouvoir siroter du Kombucha à la terrasse de ses cafés et restaurants préférés. Ils rêvent aussi de faire découvrir au plus grand nombre cette boisson saine et alternative.  Issus d’un processus naturel de fermentation, le Kombucha est naturellement pétillant, résultat d’un travail bien coordonné entre levures et micro-organismes, lui donnant ses caractéristiques uniques et vertus tant appréciées. Contrairement aux pratiques courantes de l’agro-alimentaire, ils ne revendiquent aucun brevet, ni secret sur le kombucha mais considèrent plutôt qu’il s’agit d’un procédé de fermentation qui appartient au patrimoine humain. 
+
+----
+
+Logo: https://www.lokki-kombucha.fr/wp-content/themes/lokki/images/logo-lokki-kombucha.png
+
+----
+
+Trackurl: https://www.lokki-kombucha.fr/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

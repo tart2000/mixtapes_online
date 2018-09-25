@@ -57,9 +57,31 @@ em {
 .flexblock.gallery li figcaption {
   padding: 20px;
 }
-.flexblock.gallery li .wrap {
-  height: 250px;
+.album>figure>a>span {
+  margin-bottom: 100px !important;
 }
+.square {
+  height: 250px;
+  padding: 80px;
+  margin: 0px;
+  width:100%;
+}
+.play {
+  border: solid 4px white;
+  margin: 0px;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+}
+.play>img {
+  width: 50%;
+  padding-top: 26%;
+  padding-left: 10%;
+}
+.flexblock li h2 {
+  line-height: 2.75rem;
+}
+
 /* stuff */ 
 .hide-small {
   display: none;
@@ -101,6 +123,9 @@ p {
 }
 .text-subtitle + p {
     margin-top: 2.2rem;
+}
+.right-panel p {
+  line-height: 2.8rem;
 }
 .track-full figcaption {
   position: absolute;
@@ -179,6 +204,20 @@ span.numb {
 .nav-sq>a {
   color: white;
 }
+.close-sq {
+  position: fixed;
+  top: 0px;
+  z-index: 11;
+  right: 0px;
+  width: 34px;
+  height: 34px;
+  background-color: #000;
+  color: #fff;
+  padding-left: 1px;
+  padding-top: 0px;
+  text-align: center;
+  font-size: 31px;
+}
 .slide-nav {
   position: absolute;
   top: 0px;
@@ -186,13 +225,18 @@ span.numb {
   left: 0px;
   width: 100%;
   text-align: left;
-  text-align: left;
   background-color: #3F51B5;
   color: white;
   height: 34px;
   padding-top: 18px;
-  padding-left: 44px;
+  padding-left: 8px;
   text-transform: uppercase;
+}
+.slide-nav span {
+  white-space:nowrap;
+}
+[class*="card"] figure figcaption {
+  padding: .5rem 1.2rem;
 }
 .small-pad {
   padding-top: 6rem;
@@ -205,7 +249,11 @@ span.numb {
   font-size: 0.8em; 
   color: rgba(255,255,255,0.7);
 }
-
+.album .tiny {
+  color: #b4b4b4;
+  text-shadow: none;
+  pointer-events: none;
+}
 .column .fa {
   margin-right: 10px;
 }
@@ -229,6 +277,14 @@ figure figcaption {
   color: rgba(0,0,0,0.5);
 }
 
+@media (min-width: 320px) and (max-width: 767px) {
+  
+  section.slide {
+    padding-bottom: 120px;
+  }
+  
+}
+
 @media screen and (min-width: 768px) {
   .hide-small {
     display: block;
@@ -237,7 +293,7 @@ figure figcaption {
     display: none; 
   }
   .flexblock.gallery>li {
-    min-width: 350px;
+    min-width: 250px;
   }
 }
 
@@ -286,13 +342,6 @@ figure figcaption {
   max-width: 300px;
 }
 
-.overlay-content .socials>li  {
-  list-style: none;
-  display: inline-table;
-  margin-top: 30px; 
-  text-align: center;
-  margin-left: 0px;
-}
 
 /* Position the close button (top right corner) */
 .overlay .closebtn {
@@ -302,25 +351,9 @@ figure figcaption {
     font-size: 40px;
 }
 
-.album>figure>figcaption {
-  padding-bottom: 100px !important;
-  color: #013;
-  text-shadow: none;
-}
-.album .ghost  {
-  position: absolute;
-  bottom: 25px;
-  left: 0; 
-  right: 0; 
-  margin-left: auto; 
-  margin-right: auto; 
-  width: 80px;
-  color: #44d !important;
-}
-
 /* My print */
 @media print {
-  .nav-sq, .slide-nav {
+  .nav-sq, .slide-nav, .close-sq {
     display: none;
   }
   .size-60, .size-50, .size-30 {

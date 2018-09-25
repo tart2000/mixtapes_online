@@ -1,0 +1,40 @@
+Title: Data cuisine
+
+----
+
+Style: left
+
+----
+
+Baseline: L'alimentation comme nouveau média d'information
+
+----
+
+Location: Berlin, Allemagne
+
+----
+
+Trackimg: https://www.northeastern.edu/visualization/wp-content/uploads/2016/07/0656f60c4.jpg
+
+----
+
+Imgcredit: Data Cuisine
+
+----
+
+Text: En utilisant la nourriture comme un nouveau mode d’expression de la data, le projet Data Cuisine brouille les frontières entre gastronomie, design et data visualisation.
+
+----
+
+Logo: http://data-cuisine.net/assets/data-cuisine-logo-wide.png
+
+----
+
+Trackurl: http://data-cuisine.net
+
+----
+
+Sourcetitle: thecamp
+
+----
+

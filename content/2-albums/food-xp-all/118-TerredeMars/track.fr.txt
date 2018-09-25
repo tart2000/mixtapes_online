@@ -1,0 +1,36 @@
+Title: Terre de Mars
+
+----
+
+Style: left
+
+----
+
+Baseline: Collectif d'agriculture urbaine
+
+----
+
+Location: Marseille, France
+
+----
+
+Trackimg: https://madeinmarseille.net/actualites-marseille/Terre-de-Mars-1-e1436949406496.jpg
+
+----
+
+Imgcredit: Made in Marseille
+
+----
+
+Text: Terre de Mars est un collectif d'agriculture urbaine qui a pour but de promouvoir les terres agricoles marseillaises de la graine à l'assiette. Leur projet : un espace expérimental d'agriculture urbaine dans le 14ème arrondissement de Marseille lancé en 2014 sur une ancienne terre en friche depuis une trentaine d'années mêlant production de fruits et légumes en semences paysannes avec vente directe, services de traiteurs aux entreprises et particulier, accompagnement des citoyens à valoriser leurs propres espaces afin de retisser un lien entre les habitants, le terroir et la nature.
+
+----
+
+Trackurl: http://terredemars.fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

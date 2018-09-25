@@ -1,0 +1,40 @@
+Title: Seeds and Chips
+
+----
+
+Style: left
+
+----
+
+Baseline: Sommet Mondial de L'Innovation Alimentaire
+
+----
+
+Location: Milan, Italie
+
+----
+
+Trackimg: https://l7.alamy.com/zooms/f2a75a7ef0fc4e3a99f820fc500ba78b/milan-09052018-rho-summit-seeds-chips-in-photo-barack-obama-j45bj6.jpg
+
+----
+
+Imgcredit: Alamy
+
+----
+
+Text: Un événement de référence dans le monde entier dans le domaine de l’innovation alimentaire, une vitrine exceptionnelle dédiée à la promotion de solutions et de talents partout dans le monde pour tout ce qui touche à l’alimentation.  C’est l’occasion de rencontrer les entrepreneurs, les investisseurs, les star-ups innovantes du secteur du monde entier qui aideront à construire le scénario futur du système alimentaire.
+
+----
+
+Logo: https://seedsandchips.com/dist/sac-logo.png?02dba8f73d7e029c89e1812f74c2381d
+
+----
+
+Trackurl: https://seedsandchips.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

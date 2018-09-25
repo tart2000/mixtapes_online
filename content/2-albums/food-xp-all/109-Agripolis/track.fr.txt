@@ -1,0 +1,40 @@
+Title: Agripolis
+
+----
+
+Style: left
+
+----
+
+Baseline: Fermes urbaines sur les toits
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: http://agripolis.eu/wp-content/uploads/2016/08/techno-agripolis.jpg
+
+----
+
+Imgcredit: Agripolis
+
+----
+
+Text: Les maraichers d'Agripolis cultivent des légumes sur les toits de Paris. Elle développe ses colonnes de culture qui utilisent la technique d’hydroponie, extrêmement productive. La production est locale et exclusivement réalisée avec des nutriments utilisables en agriculture biologique. L’eau et les nutriments circulent en circuit totalement fermé, ils ne sont jamais en contact avec les particules fines de l’air, étant donné la hauteur des fermes par rapport au sol. Agripolis n'utilise que des nutriments utilisables en agriculture bio, les qualités gustatives sont donc excellentes.
+
+----
+
+Logo: http://agripolis.eu/wp-content/uploads/2017/01/agripolis-web.png
+
+----
+
+Trackurl: http://agripolis.eu
+
+----
+
+Sourcetitle: thecamp
+
+----
+

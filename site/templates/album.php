@@ -20,8 +20,9 @@
   <!-- Page author -->
   <?php $author = $page->author() ?>
   <?php $theauthor = $site->user($author) ?>
+  <?php $contributors = $page->contributors() ?>
   <?php if ($theauthor->firstName() != '' && $theauthor->lastName() != '') : ?>
-    <?php snippet('track-circle', array('theauthor'=>$theauthor)) ?>
+    <?php snippet('track-circle', array('theauthor'=>$theauthor, 'contributors'=>$contributors)) ?>
   <?php endif ?>
 
   <!-- snippet 'download' -->

@@ -1,0 +1,41 @@
+Title: Tables Cachées
+
+----
+
+Style: left
+
+----
+
+Baseline: Repas secret avec un chef
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://strawberryblonde.fr/wp-content/uploads/2016/09/14455857_10154689725431019_851146656_o.jpg
+
+----
+
+Imgcredit: Geek & Food
+
+----
+
+Text: Tous les mois, Tablées Cachées invite à participer à un dîner secret dans Paris.  Aux fourneaux : un jeune chef bourré de talents qui a carte blanche sur le menu.  A table : 20 convives qui se rencontrent lors d'un repas convivial et gourmand.
+
+----
+
+Trackurl: http://www.tableescachees.com/fr/#concept
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Logo: 
+
+----
+
+Sourcelink: 

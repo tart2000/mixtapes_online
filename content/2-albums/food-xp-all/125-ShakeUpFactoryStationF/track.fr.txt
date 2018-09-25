@@ -1,0 +1,36 @@
+Title: ShakeUp Factory - Station F
+
+----
+
+Style: left
+
+----
+
+Baseline: Accélérateur spécialisé dans la FoodTech
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: http://shakeupfactory.co/wp-content/uploads/2017/04/Station-F.png
+
+----
+
+Text: La première plateforme combinant un accélérateur de startups et un lab d’open innovation dédié FoodTech. Objectif : valoriser les compétences au travers d’un espace d’exposition où les start-up peuvent se mettre en scène, et effectuer des rendez-vous d’affaires soit avec leur futur mentor, soit avec des metteurs en marché ou des investisseurs.
+
+----
+
+Logo: http://shakeupfactory.co/wp-content/uploads/2017/05/cropped-Sans-titre-2.png
+
+----
+
+Trackurl: http://shakeupfactory.co
+
+----
+
+Sourcetitle: AccorHotels
+
+----
+

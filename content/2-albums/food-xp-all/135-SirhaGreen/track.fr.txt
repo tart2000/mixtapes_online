@@ -1,0 +1,36 @@
+Title: Sirha Green
+
+----
+
+Style: left
+
+----
+
+Baseline: Salon dédié au Food Service responsable
+
+----
+
+Location: Lyon, France
+
+----
+
+Trackimg: https://www.cci-lemageco.fr/wp-content/uploads/2018/04/SIRHA-GREEN-copyright-Ingimage.jpg
+
+----
+
+Text: Bio, « free-from », veganisme, végétarisme, circuits courts, technologies économes, FoodTech, Responsabilité Sociale et Environnementale… : ces segments en forte croissance vont profondément impacter le Food Service de demain ! Pour aider les professionnels à répondre à ces évolutions profondes des comportements consommateurs, SIRHA GREEN accueille les acteurs et pionniers de ces tendances, sur l’ensemble des besoins de la filière Food Service.
+
+----
+
+Logo: https://www.sirha-green.com/themes/custom/webgl_b2b_sirhagreen_theme/logo.png
+
+----
+
+Trackurl: https://www.sirha-green.com/fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

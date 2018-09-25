@@ -1,0 +1,20 @@
+Title: Agricool
+
+----
+
+Style: left
+
+----
+
+Baseline: Des fraises en plein Paris, qui oussent en container
+
+----
+
+Trackimg: https://i0.wp.com/geekandfood.fr/wp-content/uploads/2016/05/12038924_558789484275166_4519988333140195111_o.jpg
+
+----
+
+Sourcetitle: thecamp
+
+----
+

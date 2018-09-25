@@ -1,0 +1,20 @@
+Title: Agroasis
+
+----
+
+Style: left
+
+----
+
+Baseline: Systèmes de gestion de production agricole
+
+----
+
+Trackimg: http://www.microregul.com/images/ptf11trekky02.png
+
+----
+
+Sourcetitle: thecamp
+
+----
+

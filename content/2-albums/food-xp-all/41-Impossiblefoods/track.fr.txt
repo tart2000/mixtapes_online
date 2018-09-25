@@ -1,0 +1,40 @@
+Title: Impossible foods 
+
+----
+
+Style: left
+
+----
+
+Baseline: Burger sans viande au goût de viande
+
+----
+
+Location: USA
+
+----
+
+Trackimg: http://www.pieuvre.ca/wp-content/uploads/2017/09/HamburgerFausseViande.jpg
+
+----
+
+Imgcredit: Pieuvre.ca
+
+----
+
+Text: The Impossible Burger ressemble à un burger, a le goût du burger, mais il est sans viande. Contrairement à ses prédécesseurs, The Impossible Burger n'a pas vocation à être un substitut végétal au steak classique. L'idée est, au contraire, de reproduire avec le plus de fidélité possible, le goût, la texture et l'apparence d'un steak à base de viande. Sauf qu'il est à base de plantes et ne contient aucune matière d'origine animale. Ainsi, la firme The Impossible Food, qui développe ce steak, souhaite séduire une gamme de consommateurs plus large que les végétariens et les vegans. L'idée étant de proposer une alternative au steak carné d'origine animale, mais en restant fidèle au produit d'origine.
+
+----
+
+Logo: https://www.impossiblefoods.com/images/logos/IF_logo_white.svg
+
+----
+
+Trackurl: https://www.impossiblefoods.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

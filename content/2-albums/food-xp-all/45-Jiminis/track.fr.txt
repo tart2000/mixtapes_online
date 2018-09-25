@@ -1,0 +1,40 @@
+Title: Jimini's
+
+----
+
+Style: left
+
+----
+
+Baseline: Insectes comestibles pour l'apéro
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://www.usinenouvelle.com/mediatheque/9/5/4/000522459/jimini-s-insectes.jpg
+
+----
+
+Imgcredit: L'Usine Digitale
+
+----
+
+Text: JIMINI’S c’est la première gamme d’insectes comestibles apéros prêts à manger et assaisonnés. Les criquets et Molitors sont exclusivement élevés en Europe et cuisinés dans leur atelier en Haute Normandie. Déshydratés et assaisonnés avec des épices naturelles, ils sont naturellement riches en protéines et pauvres en lipides.
+
+----
+
+Logo: https://www.jiminis.com/themes/theme_nq/img/insectescomestibles.png
+
+----
+
+Trackurl: https://www.jiminis.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

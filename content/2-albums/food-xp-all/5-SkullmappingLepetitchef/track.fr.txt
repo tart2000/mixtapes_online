@@ -1,0 +1,36 @@
+Title: Skullmapping - Le petit chef
+
+----
+
+Style: left
+
+----
+
+Baseline: Animation pour patienter au restaurant
+
+----
+
+Location: Louvain, Belgique
+
+----
+
+Trackimg: https://img.grouponcdn.com/deal/2Ds5334SyEynzKeWj21vU1ip4njU/2D-700x420/v1/c700x420.jpg
+
+----
+
+Text: Une animation imaginée pour rendre plus agréables les moments d’attente au restaurant : cette vidéo, projetée sur la table des clients, présente un « petit chef » qui cuisine sous leurs yeux et dans leurs assiettes… Leur table se métamorphose en univers maritime, glaciaire… Au fil des recettes !
+
+----
+
+Logo: http://www.antoon.be/le_petit_chef/img/header%20logo.png
+
+----
+
+Trackurl: http://www.lepetitchef.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

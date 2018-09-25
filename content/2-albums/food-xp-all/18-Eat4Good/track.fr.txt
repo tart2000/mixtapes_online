@@ -1,0 +1,40 @@
+Title: Eat4Good
+
+----
+
+Style: left
+
+----
+
+Baseline: Découvrir l'impact de son alimentation
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://lh3.googleusercontent.com/uikyEtR0FmjubftGXkoG27WQXiLzRcVUbzWUOY4lWGZbv3eANA3hsxcKongfGJakTA=w1440-h816
+
+----
+
+Imgcredit: Eat4Good
+
+----
+
+Text: Avec Eat4Good, vous allez pouvoir entrer vos informations concernant votre alimentation (type de nourriture et fréquence de consommation) et l’application vous dévoile ensuite son impact aussi bien sur l’environnement que sur votre santé. Eat4Good vous révèle les émission de CO2, la consommation d’eau, les quantités d’arbres ou d’animaux, etc., qui se cachent derrière ce que vous consommez. L’application vous donne aussi des informations en terme de santé, de distribution de nourritures dans le monde ou encore de comparatif budgétaire avec les autres pays. Elle vous permet aussi de voir où vous vous situez par rapport à l’alimentation moyenne des Français ou par rapport à l’alimentation 100 % végétale.
+
+----
+
+Logo: https://lh3.googleusercontent.com/XUfwLydzedHTWN_3RVLH1x4ArvFMIaya85lZ_ztm_A-r3F2VgFBucqrnEl9ee6hTnw=s180
+
+----
+
+Trackurl: https://play.google.com/store/apps/details?id=org.eat4good
+
+----
+
+Sourcetitle: thecamp
+
+----
+

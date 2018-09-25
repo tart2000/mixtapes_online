@@ -1,0 +1,28 @@
+Title: Plenty
+
+----
+
+Style: left
+
+----
+
+Baseline: Food with purpose
+
+----
+
+Location: SF
+
+----
+
+Trackimg: https://www.plenty.ag/wp-content/uploads/2017/07/Purpose-Hand-We-Strive.png
+
+----
+
+Logo: https://www.plenty.ag/wp-content/uploads/2017/07/Menu-Logo-Jane.png
+
+----
+
+Trackurl: https://www.plenty.ag/sf/
+
+----
+

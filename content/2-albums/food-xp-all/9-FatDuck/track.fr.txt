@@ -1,0 +1,40 @@
+Title: Fat Duck
+
+----
+
+Style: left
+
+----
+
+Baseline: Restaurant par un alchimiste culinaire
+
+----
+
+Location: Londres, UK
+
+----
+
+Trackimg: http://finedininglovers.cdn.crosscast-system.com/ImageAlbum/2943/xl_05-Heston-Blumenthal-s.jpg
+
+----
+
+Imgcredit: Fat Duck Restaurant
+
+----
+
+Text: Connu pour son talent d’alchimiste culinaire, Heston Blumenthal se différencie de ses pairs par son style novateur et son approche multi-sensorielle de la gastronomie. Ses recherches ont repoussé les frontières de la gastronomie britannique et ont permis de mieux comprendre par quel mécanisme nous enregistrons les goûts et les saveurs, ainsi que l’influence de la nostalgie sur notre palais. Une clairvoyance qui marque de son empreinte les plats proposés dans son restaurant, comme le Sounds of the Sea : une assiette de fruits de mer accompagnée d’un iPod pour écouter le bruit des vagues en mangeant ou encore l’Odeur de la Forêt Noire, proposée en accompagnement d’une crème glacée au kirsch.
+
+----
+
+Logo: http://www.thefatduck.co.uk/assets/svgs/fatduck-text-logo.svg
+
+----
+
+Trackurl: http://www.thefatduck.co.uk
+
+----
+
+Sourcetitle: thecamp
+
+----
+

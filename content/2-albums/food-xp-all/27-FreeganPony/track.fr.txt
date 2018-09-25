@@ -1,0 +1,40 @@
+Title: Freegan Pony
+
+----
+
+Style: left
+
+----
+
+Baseline: Restaurant associatif qui lutte contre le gâchis alimentaire
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.parisnightlife.fr/wp-content/uploads/image-1-2.jpg
+
+----
+
+Imgcredit: Freegan Pony
+
+----
+
+Text: Le Freegan Pony, est un restaurant associatif qui lutte contre le gâchis alimentaire depuis octobre 2015. L’essentiel de son activité se concentre sur la préparation de repas à prix libre, confectionnés sur la base d’aliments invendus récupérés au marché de Rungis. En fonction des aliments obtenus lors des récupérations auprès des grossistes et distributeurs le matin même, les équipes de cuisiniers et bénévoles imagineront aussitôt les menus afin de garantir la fraîcheur des plats vendus le soir aux clients.
+
+----
+
+Logo: http://freeganpony.com/wp-content/uploads/2018/02/Fichier-9.png
+
+----
+
+Trackurl: http://freeganpony.com
+
+----
+
+Sourcetitle: La Poste
+
+----
+

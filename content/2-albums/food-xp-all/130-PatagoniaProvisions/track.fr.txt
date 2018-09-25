@@ -1,0 +1,40 @@
+Title: Patagonia Provisions 
+
+----
+
+Style: left
+
+----
+
+Baseline: Système de livraison de nourriture
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://cdn.shopify.com/s/files/1/0262/7073/products/product-gift-box-taste-of-provisions-plated-table_1024x1024.jpg?v=1509988916
+
+----
+
+Imgcredit: Patagonia Provisions
+
+----
+
+Text: Patagonia Provisions propose d'acheter en ligne différents produits faits par des petits producteurs avec une mission sociale de régénération des sols (et des écosystèmes plus largement). Le site se différencie des sites de vente en ligne classiques : l'accent est mis sur l'histoire du produit. Le 'pourquoi' et le 'comment' viennent avant de voir le 'quoi'.
+
+----
+
+Logo: https://cdn.shopify.com/s/files/1/0262/7073/t/4/assets/Patagonia_Provisions@2x.png?10513067148025515378
+
+----
+
+Trackurl: http://www.patagoniaprovisions.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

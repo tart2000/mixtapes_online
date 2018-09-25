@@ -1,0 +1,24 @@
+Title: Tellus Labs
+
+----
+
+Style: left
+
+----
+
+Baseline: Imagerie analytique par satellite 
+
+----
+
+Trackimg: https://i.ytimg.com/vi/DCdRnATIbq8/maxresdefault.jpg
+
+----
+
+Trackurl: https://telluslabs.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

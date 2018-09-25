@@ -1,0 +1,41 @@
+Title: Styr labs
+
+----
+
+Style: left
+
+----
+
+Trackimg: https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2016/10/05/styr-labs1.jpg?itok=kvmPPLvQ
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Baseline: Alimentation ultra personnalisée
+
+----
+
+Location: 
+
+----
+
+Imgcredit: 
+
+----
+
+Text: Pour être plus performants
+
+----
+
+Logo: 
+
+----
+
+Trackurl: https://www.styr.com/
+
+----
+
+Sourcelink: 

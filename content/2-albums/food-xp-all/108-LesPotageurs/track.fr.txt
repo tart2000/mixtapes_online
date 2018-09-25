@@ -1,0 +1,40 @@
+Title: Les Potageurs
+
+----
+
+Style: left
+
+----
+
+Baseline: Potager en ville
+
+----
+
+Location: PACA, France
+
+----
+
+Trackimg: https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/17499447_615832275279458_6005820857527799714_n.jpg?_nc_cat=0&oh=d47c8a217a605e09f2d93fa40b39d867&oe=5BAE85D9
+
+----
+
+Imgcredit: Les Potageurs
+
+----
+
+Text: Les Potageurs se placent dans une approche globale et durable : potagers gastronomiques pour la restauration, l’hôtellerie et les particuliers, potagers partagés pour les maisons de retraites, les entreprises, les copropriétés, chaque solution est adaptée au milieu pour créer des offres sur mesure.  Au-delà de la production de fruits et légumes, la transmission de connaissance est au coeur de leur action en formant nos clients. L’agriculture urbaine devient ainsi prétexte à la création de lien social.
+
+----
+
+Logo: http://lespotageurs.com/wp-content/uploads/2016/03/logo_lespotageurs_noir_web.jpg
+
+----
+
+Trackurl: https://lespotageurs.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

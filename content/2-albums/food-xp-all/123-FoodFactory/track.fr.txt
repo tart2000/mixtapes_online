@@ -1,0 +1,40 @@
+Title: Food Factory
+
+----
+
+Style: left
+
+----
+
+Baseline: Un lieu vivant et polyvalent dédié à la création culinaire
+
+----
+
+Location: Lyon, France
+
+----
+
+Trackimg: https://scontent-mrs1-1.xx.fbcdn.net/v/t31.0-8/20247762_1899395850386463_8022974843568479969_o.jpg?_nc_cat=0&oh=7cc2f7ceaf377ec74c2a51d29d7b3590&oe=5BB132EA
+
+----
+
+Imgcredit: Food Factory
+
+----
+
+Text: Food Factory propose un « foodworking » de 200 m2 pour les restaurateurs, les acteurs de l’agroalimentaire et de la gastronomie. C’est aussi un lieu dédié aux événements et à la création culinaire. Le lieu a pour vocation d’être un espace d’influence où les blogueurs, chefs et professionnels viennent se rencontrer. Un atelier est disponible pour réaliser des photographies.
+
+----
+
+Logo: http://foodfactorylyon.fr/wp-content/uploads/2017/07/noir.png
+
+----
+
+Trackurl: http://foodfactorylyon.fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

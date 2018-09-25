@@ -1,0 +1,28 @@
+Title: Farm Bot
+
+----
+
+Style: left
+
+----
+
+Baseline: Robot d'agriculture automatisée open source
+
+----
+
+Trackimg: https://upload.wikimedia.org/wikipedia/commons/c/cc/FarmBot_Genesis_bed_unplanted.jpg
+
+----
+
+Logo: https://farm.bot/wp-content/uploads/2015/09/FarmBot.io-Trimmed-Logo-Gray-on-Transparent.svg
+
+----
+
+Trackurl: https://farm.bot/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

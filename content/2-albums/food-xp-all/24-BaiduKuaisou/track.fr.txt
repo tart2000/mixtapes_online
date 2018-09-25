@@ -1,0 +1,41 @@
+Title: Baidu Kuaisou
+
+----
+
+Style: left
+
+----
+
+Baseline: Des baguettes connectées pour veiller sur votre santé
+
+----
+
+Location: Chine
+
+----
+
+Trackimg: http://blogs.wsj.com/chinarealtime/2014/09/03/is-your-food-safe-baidus-new-smart-chopsticks-can-tell/
+
+----
+
+Imgcredit: Phot WSJ
+
+----
+
+Text: Baidu Kuaisou est une baguette connectée assez originale qui se met dans vos plats afin de veiller à la qualité de ce que vous mangez. Une diode bleue s’active si le produit est validé comme frais, rouge si le produit présente un quelconque danger à être ingéré.
+
+----
+
+Trackurl: http://www.capcampus.com/high-tech-1437/baidu-kuaisou-des-baguettes-connectees-pour-veiller-sur-votre-sante-a35469.htm
+
+----
+
+Sourcetitle: La Poste
+
+----
+
+Logo: 
+
+----
+
+Sourcelink: 

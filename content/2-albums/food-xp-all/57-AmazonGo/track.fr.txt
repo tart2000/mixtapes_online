@@ -1,0 +1,40 @@
+Title: Amazon Go
+
+----
+
+Style: left
+
+----
+
+Baseline: Magasin sans caisse
+
+----
+
+Location: Seattle
+
+----
+
+Trackimg: https://www.cnetfrance.fr/i/edit/2018/3/amazon-go-badge-scanning.jpg
+
+----
+
+Imgcredit: CNET France
+
+----
+
+Text: « Pas de file d'attente, pas de règlement, pas de caisse », promet Amazon à propos de son magasin automatisé. Dans ce supermarché du futur, baptisé Amazon Go, le client est reconnu grâce à un smartphone, tracé par des caméras sans fil, avant de recevoir la facture à la maison.
+
+----
+
+Logo: https://assets1.csnews.com/files/2017-11/Amazon-Go-logo_500-x-400.jpg
+
+----
+
+Trackurl: https://www.lsa-conso.fr/le-magasin-sans-caisse-amazon-go-s-ouvre-au-public,278202
+
+----
+
+Sourcetitle: AccorHotels
+
+----
+

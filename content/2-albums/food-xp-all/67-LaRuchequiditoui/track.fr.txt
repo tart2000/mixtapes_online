@@ -1,0 +1,40 @@
+Title: La Ruche qui dit oui
+
+----
+
+Style: left
+
+----
+
+Baseline: Optimisation de la vente en circuit court
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://d252gktqfh773f.cloudfront.net/fr/p/assets/images/collection-2.png
+
+----
+
+Imgcredit: La Ruche Qui Dit Oui
+
+----
+
+Text: Réseau de communautés d'achat direct aux producteurs locaux, La Ruche Qui Dit Oui rassemble les consommateurs pour acheter les meilleurs produits aux agriculteurs et aux artisans de nos régions. Elle développe et met à la disposition des agriculteurs-producteurs et des transformateurs alimentaires de l'artisanat et de la petite industrie un service payant sous forme d'une plate-forme informatique en ligne.
+
+----
+
+Logo: https://laruchequiditoui.fr/fr/p/assets/images/press-resources/fr-FR/logos/logo-1.png
+
+----
+
+Trackurl: https://laruchequiditoui.fr/fr
+
+----
+
+Sourcetitle: Sodexo
+
+----
+

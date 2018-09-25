@@ -1,0 +1,40 @@
+Title: Blue Apron + Plated
+
+----
+
+Style: left
+
+----
+
+Baseline: Livraison de kit repas
+
+----
+
+Location: USA
+
+----
+
+Trackimg: https://cdn.vox-cdn.com/thumbor/okJ-nJl9yV5F9L_1wM8FfKNMCvA=/0x0:800x600/1200x800/filters:focal(336x236:464x364)/cdn.vox-cdn.com/uploads/chorus_image/image/55053941/blue-apron.0.0.jpg
+
+----
+
+Imgcredit: Eater
+
+----
+
+Text: Une meilleure manière de cuisiner : des ingrédients frais, de super recettes livrés chaque semaine. Les ingrédients sont pesés et mesurés, de saison, avec des surprises. Les recettes sont calibrées (nombre de calories par portion + temps de préparation).  Modèle : abonnement, repas par personne compris entre 8,74 et 10 dollars. Personnalisable suivant allergies, interdits, préférences.
+
+----
+
+Logo: https://2ndvote.com/wp-content/uploads/2016/03/blueapron.png
+
+----
+
+Trackurl: https://www.blueapron.com
+
+----
+
+Sourcetitle: La Poste
+
+----
+

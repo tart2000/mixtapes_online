@@ -1,0 +1,40 @@
+Title: Youmiam
+
+----
+
+Style: left
+
+----
+
+Baseline: Recettes de cuisine nouvelle génération
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://img.ohmymag.com/article/cuisine/youmiamyoumiam-une-application-qui-a-du-gout_226c4b863702b28a04510c5c79bc7becc1e6124a.jpg
+
+----
+
+Imgcredit: Oh My Mag
+
+----
+
+Text: L'app de recettes qui offre une expérience unique, ludique & personnalisée pour permettre à chacun de découvrir et réussir des recettes qui lui correspondent, au quotidien. Ils libèrent la routine alimentaire et change la vie !
+
+----
+
+Logo: http://blog.youmiam.com/wp-content/uploads/2016/03/YM-Full.png
+
+----
+
+Trackurl: https://youmiam.com/fr/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

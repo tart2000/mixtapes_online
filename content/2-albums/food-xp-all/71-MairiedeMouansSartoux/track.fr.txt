@@ -1,0 +1,36 @@
+Title: Mairie de Mouans Sartoux
+
+----
+
+Style: left
+
+----
+
+Baseline: Restauration collective 100 % bio
+
+----
+
+Location: Mouans Sartoux, France
+
+----
+
+Trackimg: https://i0.wp.com/mrmondialisation.org/wp-content/uploads/2016/03/mouans-sartoux-cantine-bio-pdt-1.jpg
+
+----
+
+Imgcredit: Mouans-Sartoux
+
+----
+
+Text: Située dans les environs de Cannes et de Grasse, la petite commune de Mouans-Sartoux (Alpes-Maritimes) a cette particularité d’être la seule en France dont les cantines scolaires servent des plats 100% biologiques, produits sans intrants chimiques. Avec une régie agricole dédiée écoulant les 20 tonnes de sa production annuelle, ayant su mettre en place d’astucieuses solutions d’organisation pour réduire et recycler ses déchets.
+
+----
+
+Trackurl: https://mrmondialisation.org/a-mouans-sartoux-les-cantines-sont-100-bio/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

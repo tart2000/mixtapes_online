@@ -1,0 +1,40 @@
+Title: LifeDoJo
+
+----
+
+Style: left
+
+----
+
+Baseline: La santé par la nutrition personnalisée
+
+----
+
+Location: San Francisco, USA
+
+----
+
+Trackimg: http://codigodelsur.com/wp-content/uploads/2018/03/Life-Dojo-1.jpg
+
+----
+
+Imgcredit: Life Do Jo
+
+----
+
+Text: Programme de bien être de 12 semaines pour embarquer les employés vers un changement de leurs habitudes pour des résultats positifs sur leur santé.
+
+----
+
+Logo: https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1504640660/lifedojo.png
+
+----
+
+Trackurl: http://www.lifedojo.com
+
+----
+
+Sourcetitle: Sodexo
+
+----
+

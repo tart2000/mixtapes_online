@@ -1,0 +1,36 @@
+Title: United Kitchen
+
+----
+
+Style: left
+
+----
+
+Baseline: Cuisines partagées au château de Nanterre
+
+----
+
+Location: Nanterre, France
+
+----
+
+Trackimg: https://pbs.twimg.com/media/DLfC1E7WAAALEoE.jpg
+
+----
+
+Text: United Kitchens est un incubateur culinaire. Nous proposons aux entrepreneurs de l’alimentation durable de partager 500m² de cuisines professionnelles au sein du Château de Nanterre. En louant un espace de cuisine partagée, ils peuvent valider leur concept, nouer un solide réseau et se développer.  United Kitchens, c’est LA solution pour les entrepreneurs Food qui veulent changer le monde.
+
+----
+
+Logo: https://static.wixstatic.com/media/fae16c_cc63f9fc5e7c45a487150c33743fd839~mv2_d_1640_1640_s_2.png/v1/crop/x_0,y_272,w_1640,h_1097/fill/w_113,h_71,al_c,usm_0.66_1.00_0.01/fae16c_cc63f9fc5e7c45a487150c33743fd839~mv2_d_1640_1640_s_2.png
+
+----
+
+Trackurl: http://www.unitedkitchens.fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

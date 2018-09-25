@@ -1,0 +1,40 @@
+Title: FoodCheri
+
+----
+
+Style: left
+
+----
+
+Baseline: Livraison de plats frais
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: https://www.cmgsportsclub.com/sites/default/files/styles/visuel-980w/public/actualites/foodcheri-top-news.jpg?itok=IjwtTGFI
+
+----
+
+Imgcredit: CMG Sports Club
+
+----
+
+Text: Faites-vous livrer chez vous ou au bureau, de délicieux plats faits maison à base d'ingrédients locaux et de saison cuisinés par des chefs. idem : Le Zeste, Frichti, ...
+
+----
+
+Logo: https://blog.foodcheri.com/wp-content/uploads/2016/01/foodcheri-linear-night-blue.png
+
+----
+
+Trackurl: https://www.foodcheri.com
+
+----
+
+Sourcetitle: Sodexo
+
+----
+

@@ -6,6 +6,7 @@
   <span class="background dark" style="background-image:url('https://source.unsplash.com/<?= $page->imgurl() ?>/2600x1600')"></span>
  <!--  <span class="background dark" style="background-image:url('https://source.unsplash.com/nxfuA21kNHY/1440x1440')"></span> -->
   <div class="wrap size-60">
+    <a href="javascript:void(0)" class="close-sq" onclick="closeTab()">×</a>
     
     <h2>
       <?= $page->title() ?> 

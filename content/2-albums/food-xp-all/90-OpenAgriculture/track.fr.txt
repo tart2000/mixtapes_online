@@ -1,0 +1,41 @@
+Title: Open Agriculture
+
+----
+
+Style: left
+
+----
+
+Baseline: Une initiative du MIT Media Lab
+
+----
+
+Location: Boston, USA
+
+----
+
+Trackimg: https://s3-eu-west-1.amazonaws.com/openreply-enidays/wp-content/uploads/2016/11/homeimg.jpg
+
+----
+
+Imgcredit: 
+
+----
+
+Text: 
+
+----
+
+Logo: 
+
+----
+
+Trackurl: 
+
+----
+
+Sourcelink: 
+
+----
+
+Sourcetitle: 

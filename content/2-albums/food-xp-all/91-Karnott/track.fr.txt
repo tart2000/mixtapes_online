@@ -1,0 +1,40 @@
+Title: Karnott
+
+----
+
+Style: left
+
+----
+
+Baseline: Le carnet de note digital des agriculteurs
+
+----
+
+Location: Lille, France
+
+----
+
+Trackimg: https://www.karnott.fr/wp-content/uploads/2017/12/trackteur-karnott.jpg
+
+----
+
+Imgcredit: Karnott
+
+----
+
+Text: En discutant avec Alexandre, informaticien de formation, une idée leur est alors venue : créer une solution connectée pour calculer, analyser et archiver automatiquement toutes les interventions réalisées par le matériel grâce à un boitier GPS couplée à une application web ultra simple permettant ainsi la suppression des traditionnels carnets de notes.
+
+----
+
+Logo: https://www.karnott.fr/wp-content/uploads/2017/12/logo-karnott-nav-2.jpg
+
+----
+
+Trackurl: https://www.karnott.fr
+
+----
+
+Sourcetitle: CA IFCAM
+
+----
+

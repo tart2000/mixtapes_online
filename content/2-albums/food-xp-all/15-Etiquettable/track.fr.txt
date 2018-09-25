@@ -1,0 +1,40 @@
+Title: Etiquettable
+
+----
+
+Style: left
+
+----
+
+Baseline: Eco-calculateur de recettes pour les chefs
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.socialter.fr/images/Articles/EtiquettableApp560.png
+
+----
+
+Imgcredit: Socialter
+
+----
+
+Text: Etiquettable se présente comme une application de cuisine durable et collaborative. Afin d'aider à cuisiner de manière responsable, Etiquettable intègre de très nombreuses recettes nécessitant de mélanger des produits de saison. Pour guider dans le choix des fruits et légumes à acheter, l'appli embarque d'un calendrier saisonnier affichant les produits durables du mois. Etiquettable indique quelles sont les espèces animales (viandes et poissons) menacées qu'il vaut mieux éviter de consommer. Sont également répertoriés les restaurants engagés alentours pour permettre de manger responsable. Etiquettable délivre des conseils et des astuces pour cuisiner toujours plus en harmonie avec l'environnement et votre santé.
+
+----
+
+Logo: http://etiquettable.eco2initiative.com/wp-content/uploads/2017/10/etiquettable-logo-vertical.png
+
+----
+
+Trackurl: http://etiquettable.eco2initiative.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

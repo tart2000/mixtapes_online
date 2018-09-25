@@ -1,0 +1,40 @@
+Title: Le Comptoir Local
+
+----
+
+Style: left
+
+----
+
+Baseline: Livraison de produits naturels
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: http://lilibarbery.com/wp-content/uploads/2016/09/arton1095.jpg
+
+----
+
+Imgcredit: Lili Barbery
+
+----
+
+Text: Le Comptoir Local livre à domicile les courses de produits frais et locaux des franciliens. Avec une offre 100% circuit-court, le Comptoir Local révolutionne la distribution alimentaire en ligne. Sa force ? Prendre en charge toute la logistique depuis les champs des producteurs jusqu’au palier des consommateurs. Cela donne des produits extra-frais pour les clients et un prix juste pour les producteurs : tout le monde est heureux ! 
+
+----
+
+Logo: https://www.lecomptoirlocal.fr/img/style/logos/logo_vert.png
+
+----
+
+Trackurl: https://www.lecomptoirlocal.fr
+
+----
+
+Sourcetitle: CA IFCAM
+
+----
+

@@ -1,0 +1,40 @@
+Title: Vivoptim
+
+----
+
+Style: left
+
+----
+
+Baseline: Programme cardio vasculaire
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://www.sante-sur-le-net.com/wp-content/uploads/2018/03/stethoscope-coeur.jpg
+
+----
+
+Imgcredit: Santé sur le net
+
+----
+
+Text: La mutuelle MGEN a conçu en 2015 un programme de santé connectée, baptisé Vivoptim, et dédié à la prévention et à la gestion du risque cardiovasculaire. Ce programme constitue un véritable coach santé au quotidien, qui accompagne les participants dans une démarche de changement de leur mode de vie, avec plusieurs objectifs :  Prévenir la survenue des accidents cardiovasculaires ; Modifier les comportements vers un mode de vie plus sain et plus actif ; Mieux gérer la maladie cardiovasculaire ; Eviter les complications liées aux maladies cardiovasculaires.
+
+----
+
+Logo: https://www.vivoptim.com/common_public/theme/theme_front_1/image/bandeau/logo.png
+
+----
+
+Trackurl: https://www.vivoptim.com
+
+----
+
+Sourcetitle: Groupe VYV
+
+----
+

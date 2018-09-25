@@ -1,0 +1,24 @@
+Title: Brightbox
+
+----
+
+Style: left
+
+----
+
+Baseline: Campus d'expérimentation en agriculture
+
+----
+
+Location: Venlo, Pays-Bas
+
+----
+
+Trackimg: http://sustainableurbandelta.com/wp-content/uploads/2015/06/Opening-BRIGHT-BOX-0435-Medium.jpg
+
+----
+
+Trackurl: http://www.brightbox-venlo.nl/en/
+
+----
+

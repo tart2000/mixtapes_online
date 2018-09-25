@@ -1,0 +1,40 @@
+Title: My Food Story
+
+----
+
+Style: left
+
+----
+
+Baseline: Découvrir la véritable histoire des produits
+
+----
+
+Location: Marseille, France
+
+----
+
+Trackimg: https://www.myfoodstory.org/wp-content/uploads/2018/02/image_dessinee_sans_texte_right.jpg
+
+----
+
+Imgcredit: My Food Story
+
+----
+
+Text: 8 consommateurs sur 10 veulent connaître la provenance de leur nourriture. My Food Story est la plateforme pour raconter facilement toutes les étapes de production et de distribution et accueillir des consommateurs lors d'étapes clés. Lancement à venir...
+
+----
+
+Logo: https://www.myfoodstory.org/wp-content/uploads/2018/01/Logo-MFS-Horiz-S.png
+
+----
+
+Trackurl: https://www.myfoodstory.org
+
+----
+
+Sourcetitle: thecamp
+
+----
+

@@ -1,0 +1,40 @@
+Title: Mo'Rice
+
+----
+
+Style: left
+
+----
+
+Baseline: Dessert végétal Bio au Riz de Camargue
+
+----
+
+Location: Marseille, France
+
+----
+
+Trackimg: http://www.moricedesserts.com/Files/128055/Img/07/DIAPO.jpg
+
+----
+
+Imgcredit: MoRice Desserts
+
+----
+
+Text: MoRice est un brassé végétal Bio. Fabriqué à Marseille avec humour à partir de bon riz blanc de Camargue, il est 100% naturel et 100% sans lactose, 100% vegan, qu'il soit nature, framboise, citron, abricot, coco ou chocolat et vanille ! 
+
+----
+
+Logo: http://www.moricedesserts.com/Files/128055/Img/20/MoRice-logo-Nature-120875-55346496.jpg
+
+----
+
+Trackurl: http://www.moricedesserts.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

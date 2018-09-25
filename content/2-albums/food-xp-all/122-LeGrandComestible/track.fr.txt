@@ -1,0 +1,41 @@
+Title: Le Grand Comestible
+
+----
+
+Style: left
+
+----
+
+Baseline: Nouveau lieu culturel dédié à l’agriculture urbaine, l’alimentation, à la recherche et à la l’art.
+
+----
+
+Location: Paris, France
+
+----
+
+Trackimg: https://static.dezeen.com/uploads/2016/02/massena-ville-de-paris-dezeen-sq.jpg
+
+----
+
+Imgcredit: Alimentation Générale
+
+----
+
+Text: Le Grand Comestible sera un lieu unique d’échanges et de débats, mais aussi une base avancée des recherches en cours dont les travaux seront régulièrement présentés. Il apporte une pratique concrète à l’écologie urbaine dans des lieux où on cultive et l’on se cultive avec : - l’agriculture urbaine où l’on sème, recherche, innove, progresse - les ateliers pédagogiques où l’on récolte, transmet, partage, recycle - la cantine interactive où l’on cuisine, informe, conserve, transforme - le marché et la Ruche lab, où l’on échange, développe, dissémine - la Galerie Street Art où l’on s’engage, expose, questionne - la black box où l’on débat, diffuse, se divertit - les résidences chefs, artistes, chercheurs, habitants, où l’on découvre, habite, entretient Ouverture prévue en 2019
+
+----
+
+Trackurl: https://agence.alimentation-generale.fr/notre-futur-lieu/
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Logo: 
+
+----
+
+Sourcelink: 

@@ -1,0 +1,36 @@
+Title: La Ferme Digitale
+
+----
+
+Style: left
+
+----
+
+Baseline: Promouvoir le numérique dans l'agriculture
+
+----
+
+Location: France
+
+----
+
+Trackimg: https://pbs.twimg.com/media/DeiJXYPXcAE66vG.jpg
+
+----
+
+Text: Fondée par 5 startup, La Ferme Digitale est une association ayant pour objectif de promouvoir l’innovation et le numérique pour une agriculture performante et durable. Respectivement, les startup fondatrices interviennent à un moment précis du cycle de vie agricole. De l’approvisionnement à la consommation, en passant par le financement participatif, chacun à un rôle spécifique. L’association est alors devenue évidente entre ces acteurs pour développer cette synergie à 360 degrés. Au coeur d’un réel triptyque, l’association a pour ambition de montrer comment les nouvelles technologies permettent aux agriculteurs d’être plus productifs, plus compétitifs et proches des préoccupations du consommateur.
+
+----
+
+Logo: https://www.lafermedigitale.fr/wp-content/uploads/2016/02/logofinal-1.png
+
+----
+
+Trackurl: https://www.lafermedigitale.fr
+
+----
+
+Sourcetitle: CA IFCAM
+
+----
+

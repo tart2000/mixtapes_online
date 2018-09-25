@@ -1,0 +1,40 @@
+Title: Kwalito
+
+----
+
+Style: left
+
+----
+
+Baseline: L'appli qui scanne notre alimentation
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.kwali.to/img/img-ecrans.png
+
+----
+
+Imgcredit: Kwalito
+
+----
+
+Text: Grâce à Kwalito vous allez comprendre les étiquettes des produits alimentaires et savoir exactement ce que vous mangez. Trouver les produits qui vous conviennent réellement et améliorer votre alimentation au quotidien devient facile, enfin.
+
+----
+
+Logo: http://www.kwali.to/img/kwalito.png
+
+----
+
+Trackurl: http://www.kwali.to
+
+----
+
+Sourcetitle: La Poste
+
+----
+

@@ -1,0 +1,40 @@
+Title: EAU
+
+----
+
+Style: left
+
+----
+
+Baseline: Aquaponie pour nourrir les communautés
+
+----
+
+Location: Québec, Canada
+
+----
+
+Trackimg: http://www.eau-agriculture.com/en/wp-content/uploads/2017/01/serre-%C3%A9au-cathon.png
+
+----
+
+Imgcredit: Cathon
+
+----
+
+Text: ÉAU (Écosystèmes Alimentaires Urbains) est une entreprise d’agriculture urbaine spécialisée en aquaponie : un système novateur et écologique de production alimentaire. Ils développent des fermes verticales qui produisent des aliments frais, sains et locaux – des légumes, des fruits et du poisson – toute l’année. Portés par une mission sociale, ils cherchent à implanter leur solution dans des communautés en situation de précarité alimentaire. 
+
+----
+
+Logo: https://pbs.twimg.com/profile_images/737329909673144320/WVJL4FKR_400x400.jpg
+
+----
+
+Trackurl: http://www.eau-agriculture.com/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

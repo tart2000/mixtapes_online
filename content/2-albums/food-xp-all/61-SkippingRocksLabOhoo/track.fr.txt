@@ -1,0 +1,40 @@
+Title: Skipping Rocks Lab - Ohoo !
+
+----
+
+Style: left
+
+----
+
+Baseline: La goutte d'eau qui se boit
+
+----
+
+Location: Londres, UK
+
+----
+
+Trackimg: http://grihat.com/wp-content/uploads/2017/04/ohoo.jpg
+
+----
+
+Imgcredit: Ohoo !
+
+----
+
+Text: Alors que chaque année des milliers de bouteilles d’eau en plastique sont vendues à travers le monde, la start-up anglaise Skipping Rocks Lab propose une alternative écologique avec sa capsule futuriste Ohoo! Créée à partir d’algues, la bouteille d’eau traditionnelle est remplacée par une bulle gélatineuse biodégradable et entièrement comestible. Son coût de fabrication lui est aussi très intéressant puisqu’il ne revient qu’à quelques centimes d’euros par bulle. Une véritable révolution!
+
+----
+
+Logo: https://www.ellenmacarthurfoundation.org/assets/images/ce100/Skipping-Rocks-Lab_logo-websize.png
+
+----
+
+Trackurl: http://www.skippingrockslab.com/ooho!.html
+
+----
+
+Sourcetitle: thecamp
+
+----
+

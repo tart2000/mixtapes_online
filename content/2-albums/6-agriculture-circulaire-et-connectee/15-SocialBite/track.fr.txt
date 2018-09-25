@@ -1,0 +1,41 @@
+Title: Social Bite
+
+----
+
+Style: left
+
+----
+
+Baseline: Chaîne de Fast Food écossais qui vient en aide aux sans-abris
+
+----
+
+Location: UK
+
+----
+
+Trackimg: http://lunchquest.co.uk/wp-content/uploads/2014/11/20141028_081418.jpg
+
+----
+
+Text: La chaîne n’a qu’un seul objectif : venir en aide aux plus démunis en utilisant ses bénéfices pour faire barrière à la pauvreté. Pour ce faire, le réseau a - en plus d’embaucher de nombreux sans-abris - créé un système de nourriture et de café "suspendus". Un concept permettant aux clients de payer un sandwich ou un café à l‘avance afin qu’un SDF puisse le récupérer gratuitement ensuite.
+
+----
+
+Logo: http://social-bite.co.uk/wp-content/uploads/2015/11/SB_Logo_GoodFood1.jpg
+
+----
+
+Trackurl: http://social-bite.co.uk
+
+----
+
+Sourcetitle: thecamp
+
+----
+
+Imgcredit: 
+
+----
+
+Sourcelink: 

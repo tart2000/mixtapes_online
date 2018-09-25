@@ -1,0 +1,40 @@
+Title: Bakeys (& Koovert)
+
+----
+
+Style: left
+
+----
+
+Baseline: Couverts comestibles éco-gourmand
+
+----
+
+Location: France
+
+----
+
+Trackimg: http://www.diningguide.hu/wp-content/uploads/2016/07/1903238bd5a13e2ab0e84c2fd811bd0b_original.jpg
+
+----
+
+Imgcredit: Dining Guide
+
+----
+
+Text: Koovert disrupte le marché mondial de la vaisselle jetable en commercialisant des couverts comestibles, biodégradables et économiques capables de remplacer les couverts en plastique bientôt interdits.
+
+----
+
+Logo: https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/v1/149758/pi8z8gnnbmpo1dnvpgsi.png
+
+----
+
+Trackurl: https://www.koovert.com
+
+----
+
+Sourcetitle: thecamp
+
+----
+

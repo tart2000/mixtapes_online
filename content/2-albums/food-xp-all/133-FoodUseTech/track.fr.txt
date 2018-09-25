@@ -1,0 +1,36 @@
+Title: FoodUseTech
+
+----
+
+Style: left
+
+----
+
+Baseline: Evénement dédié aux usages du digital dans l'agroalimentaire
+
+----
+
+Location: Dijon, France
+
+----
+
+Trackimg: http://www.bourgogne-infos.com/medias/27196/mounir-mahjoubi-aux-entrepreneurs-de-la-food-tech-mon-role-est-de-vous-rendre-la-vie-plus-simple-97155.jpg
+
+----
+
+Text: Cet événement aborde l’ensemble des thématiques liées aux nouveaux usages sur toute la chaine de valeur agroalimentaire, de la production à la consommation, en passant par la transformation et la distribution. Food Use Tech propose des initiatives de connexion uniques à l’ensemble des acteurs de l’écosystème FoodTech, startups & porteurs de projets, investisseurs, banques & VC, incubateurs & accélérateurs, collectivités & administrations, producteurs, agriculteurs & coopératives, artisans et métiers de bouche, industries de transformation, distributeurs & retailers, équipementiers domestiques, écoles & universités, laboratoires de recherche,… et leur permet de découvrir, de créer et de lancer de nouveaux projets.
+
+----
+
+Logo: http://www.mbadmb.com/wp-content/uploads/2017/11/Food_Use_Tech.jpg
+
+----
+
+Trackurl: https://foodusetech.fr
+
+----
+
+Sourcetitle: thecamp
+
+----
+

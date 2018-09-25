@@ -1,0 +1,32 @@
+Title: elBullli
+
+----
+
+Style: left
+
+----
+
+Baseline: Le restaurant le plus demandé au monde
+
+----
+
+Location: Barcelone, Espagne
+
+----
+
+Trackimg: http://finedininglovers.cdn.crosscast-system.com/ImageAlbum/18580/original_original-el-bulli-caviale.jpeg
+
+----
+
+Imgcredit: elBulli
+
+----
+
+Text: Le restaurant El Bulli propose la cuisine la plus détonante, avant-gardiste au monde : plus ça explose, ça fume, ça pétille et meilleur c’est ! Marshmallow de parmesan, crunchy de quinoa, leche eléctrica (« lait électrique » !), caviar sphérique de melon, truffe-nitro coulant de pistache, soupe d’huile d’olive à l’orange sanguine ou nitro-pâte de fruit de ramarillo, morphings (les aliments se transforment) ... Ferran Adria avait défrayé la chronique en étant le premier chef à utiliser l’azote liquide dans ses inventions gastronomiques. 
+
+----
+
+Trackurl: http://elbullifoundation.com/en/
+
+----
+

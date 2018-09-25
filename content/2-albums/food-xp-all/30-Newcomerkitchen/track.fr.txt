@@ -1,0 +1,40 @@
+Title: Newcomer kitchen 
+
+----
+
+Style: left
+
+----
+
+Baseline: Un restaurant ouvre sa cuisine aux réfugiées syriennes
+
+----
+
+Location: Toronto, Canada
+
+----
+
+Trackimg: https://s-i.huffpost.com/gen/4502294/thumbs/o-NEWCOMER-KITCHEN-SYRIAN-570.jpg?16
+
+----
+
+Imgcredit: HuffPost Canada
+
+----
+
+Text: Initiative visant à faciliter l'intégration des réfugiés syriens dans leur communauté d'accueil et ce par le biais de la nourriture. Une fois par semaine, des réfugiés syriens se rassemblent dans la cuisine du Dépanneur, un espace culinaire de l'Ouest de Toronto où tous et toutes s'affairent à préparer des mets typiques de leur pays. 
+
+----
+
+Logo: https://thedepanneur.ca/wp-content/uploads/2016/08/TheDep_SM.png
+
+----
+
+Trackurl: https://thedepanneur.ca/newcomerkitchen/
+
+----
+
+Sourcetitle: thecamp
+
+----
+

@@ -1,0 +1,40 @@
+Title: Mini Green Power
+
+----
+
+Style: left
+
+----
+
+Baseline: Valorise les résidus végétaux en énergie
+
+----
+
+Location: Hyères, France
+
+----
+
+Trackimg: https://static.wixstatic.com/media/5465da_55ddbf9436df43b29ba3082fd515a18e.png/v1/fill/w_600,h_410,al_c,usm_0.66_1.00_0.01/5465da_55ddbf9436df43b29ba3082fd515a18e.png
+
+----
+
+Imgcredit: Mini Green Power
+
+----
+
+Text: L’objectif est de réaliser des Mini Centrales qui génèrent, à l’échelle locale et à partir de ressources locales. Ces centrales reposent sur un procédé breveté de pyro-gazéification avec combustion étagée. La chaleur générée est récupérée à travers une chaudière et peut ensuite être utilisée pour des applications diverses : de l’électricité, de la chaleur, du froid ou des combustibles verts.
+
+----
+
+Logo: https://static.wixstatic.com/media/5465da_7f1fab1a9cda4d29b8111e814942f93d.png/v1/fill/w_172,h_50,al_c,usm_0.66_1.00_0.01/5465da_7f1fab1a9cda4d29b8111e814942f93d.png
+
+----
+
+Trackurl: http://www.minigreenpower.com/ebook-de-presentation
+
+----
+
+Sourcetitle: thecamp
+
+----
+
